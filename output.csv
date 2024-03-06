@@ -1,0 +1,1169 @@
+Wed Jan 31 15:34:06 CST 2024, timestamp: Wed Jan 31 15:34:06 CST 2024)
+[1;31m2024-01[m-31 15:34:07,161 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:07 CST 2024, timestamp: Wed Jan 31 15:34:07 CST 2024)
+[1;31m2024-01[m-31 15:34:08,160 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:08 CST 2024, timestamp: Wed Jan 31 15:34:08 CST 2024)
+[1;31m2024-01[m-31 15:34:09,161 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:09 CST 2024, timestamp: Wed Jan 31 15:34:09 CST 2024)
+[1;31m2024-01[m-31 15:34:10,161 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:10 CST 2024, timestamp: Wed Jan 31 15:34:10 CST 2024)
+[1;31m2024-01[m-31 15:34:11,161 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:11 CST 2024, timestamp: Wed Jan 31 15:34:11 CST 2024)
+[1;31m2024-01[m-31 15:34:12,161 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:12 CST 2024, timestamp: Wed Jan 31 15:34:12 CST 2024)
+[1;31m2024-01[m-31 15:34:13,162 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:13 CST 2024, timestamp: Wed Jan 31 15:34:13 CST 2024)
+[1;31m2024-01[m-31 15:34:14,162 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:14 CST 2024, timestamp: Wed Jan 31 15:34:14 CST 2024)
+[1;31m2024-01[m-31 15:34:15,161 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:15 CST 2024, timestamp: Wed Jan 31 15:34:15 CST 2024)
+[1;31m2024-01[m-31 15:34:16,162 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:16 CST 2024, timestamp: Wed Jan 31 15:34:16 CST 2024)
+[1;31m2024-01[m-31 15:34:17,162 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:17 CST 2024, timestamp: Wed Jan 31 15:34:17 CST 2024)
+[1;31m2024-01[m-31 15:34:18,162 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:18 CST 2024, timestamp: Wed Jan 31 15:34:18 CST 2024)
+[1;31m2024-01[m-31 15:34:19,163 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:19 CST 2024, timestamp: Wed Jan 31 15:34:19 CST 2024)
+[1;31m2024-01[m-31 15:34:20,163 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:20 CST 2024, timestamp: Wed Jan 31 15:34:20 CST 2024)
+[1;31m2024-01[m-31 15:34:21,163 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:21 CST 2024, timestamp: Wed Jan 31 15:34:21 CST 2024)
+[1;31m2024-01[m-31 15:34:22,164 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:22 CST 2024, timestamp: Wed Jan 31 15:34:22 CST 2024)
+[1;31m2024-01[m-31 15:34:23,164 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:23 CST 2024, timestamp: Wed Jan 31 15:34:23 CST 2024)
+[1;31m2024-01[m-31 15:34:24,164 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:24 CST 2024, timestamp: Wed Jan 31 15:34:24 CST 2024)
+[1;31m2024-01[m-31 15:34:25,164 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:25 CST 2024, timestamp: Wed Jan 31 15:34:25 CST 2024)
+[1;31m2024-01[m-31 15:34:26,164 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:26 CST 2024, timestamp: Wed Jan 31 15:34:26 CST 2024)
+[1;31m2024-01[m-31 15:34:27,164 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:27 CST 2024, timestamp: Wed Jan 31 15:34:27 CST 2024)
+[1;31m2024-01[m-31 15:34:28,165 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:28 CST 2024, timestamp: Wed Jan 31 15:34:28 CST 2024)
+[1;31m2024-01[m-31 15:34:29,165 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:29 CST 2024, timestamp: Wed Jan 31 15:34:29 CST 2024)
+[1;31m2024-01[m-31 15:34:30,165 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:30 CST 2024, timestamp: Wed Jan 31 15:34:30 CST 2024)
+[1;31m2024-01[m-31 15:34:31,166 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:31 CST 2024, timestamp: Wed Jan 31 15:34:31 CST 2024)
+[1;31m2024-01[m-31 15:34:32,166 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:32 CST 2024, timestamp: Wed Jan 31 15:34:32 CST 2024)
+[1;31m2024-01[m-31 15:34:33,166 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:33 CST 2024, timestamp: Wed Jan 31 15:34:33 CST 2024)
+[1;31m2024-01[m-31 15:34:34,014 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=745.9M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=258.0M, heap.memory.free=478.4M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185759, minor.gc.time=2527810ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=0.00%, load.systemAverage=0.00%, thread.count=264, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78547903, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:34:34,166 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:34 CST 2024, timestamp: Wed Jan 31 15:34:34 CST 2024)
+[1;31m2024-01[m-31 15:34:35,166 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:35 CST 2024, timestamp: Wed Jan 31 15:34:35 CST 2024)
+[1;31m2024-01[m-31 15:34:36,166 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:36 CST 2024, timestamp: Wed Jan 31 15:34:36 CST 2024)
+[1;31m2024-01[m-31 15:34:37,167 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:37 CST 2024, timestamp: Wed Jan 31 15:34:37 CST 2024)
+[1;31m2024-01[m-31 15:34:38,167 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:38 CST 2024, timestamp: Wed Jan 31 15:34:38 CST 2024)
+[1;31m2024-01[m-31 15:34:39,167 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:39 CST 2024, timestamp: Wed Jan 31 15:34:39 CST 2024)
+[1;31m2024-01[m-31 15:34:40,167 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:40 CST 2024, timestamp: Wed Jan 31 15:34:40 CST 2024)
+[1;31m2024-01[m-31 15:34:41,167 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:41 CST 2024, timestamp: Wed Jan 31 15:34:41 CST 2024)
+[1;31m2024-01[m-31 15:34:42,168 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:42 CST 2024, timestamp: Wed Jan 31 15:34:42 CST 2024)
+[1;31m2024-01[m-31 15:34:43,168 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:43 CST 2024, timestamp: Wed Jan 31 15:34:43 CST 2024)
+[1;31m2024-01[m-31 15:34:44,168 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:44 CST 2024, timestamp: Wed Jan 31 15:34:44 CST 2024)
+[1;31m2024-01[m-31 15:34:45,168 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:45 CST 2024, timestamp: Wed Jan 31 15:34:45 CST 2024)
+[1;31m2024-01[m-31 15:34:46,169 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:46 CST 2024, timestamp: Wed Jan 31 15:34:46 CST 2024)
+[1;31m2024-01[m-31 15:34:47,169 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:47 CST 2024, timestamp: Wed Jan 31 15:34:47 CST 2024)
+[1;31m2024-01[m-31 15:34:48,169 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:48 CST 2024, timestamp: Wed Jan 31 15:34:48 CST 2024)
+[1;31m2024-01[m-31 15:34:49,169 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:49 CST 2024, timestamp: Wed Jan 31 15:34:49 CST 2024)
+[1;31m2024-01[m-31 15:34:50,169 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:50 CST 2024, timestamp: Wed Jan 31 15:34:50 CST 2024)
+[1;31m2024-01[m-31 15:34:51,170 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:51 CST 2024, timestamp: Wed Jan 31 15:34:51 CST 2024)
+[1;31m2024-01[m-31 15:34:52,170 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:52 CST 2024, timestamp: Wed Jan 31 15:34:52 CST 2024)
+[1;31m2024-01[m-31 15:34:53,170 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:53 CST 2024, timestamp: Wed Jan 31 15:34:53 CST 2024)
+[1;31m2024-01[m-31 15:34:54,170 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:54 CST 2024, timestamp: Wed Jan 31 15:34:54 CST 2024)
+[1;31m2024-01[m-31 15:34:55,170 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:55 CST 2024, timestamp: Wed Jan 31 15:34:55 CST 2024)
+[1;31m2024-01[m-31 15:34:56,170 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:56 CST 2024, timestamp: Wed Jan 31 15:34:56 CST 2024)
+[1;31m2024-01[m-31 15:34:57,170 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:57 CST 2024, timestamp: Wed Jan 31 15:34:57 CST 2024)
+[1;31m2024-01[m-31 15:34:58,171 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:58 CST 2024, timestamp: Wed Jan 31 15:34:58 CST 2024)
+[1;31m2024-01[m-31 15:34:59,171 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:34:59 CST 2024, timestamp: Wed Jan 31 15:34:59 CST 2024)
+[1;31m2024-01[m-31 15:35:00,171 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:00 CST 2024, timestamp: Wed Jan 31 15:35:00 CST 2024)
+[1;31m2024-01[m-31 15:35:00,795 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.event.ui.ActiveCallSetEvent@5631908f
+[1;31m2024-01[m-31 15:35:00,795 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736900794, commitIndex=86975453, changes=[[type=CHANGE, tstamp=1706736900790, entity=RealtimeLocalParticipant@fc54bf162b2d9e54], [type=CHANGE, tstamp=1706736900790, entity=RealtimeCall@fc326f5c1865a944], [type=CHANGE, tstamp=1706736900791, entity=PrimaryActiveCall@fc9d854377a64125], [type=ADD, tstamp=1706736900791, entity=RealtimeMessage@fc8b02e2424f3a24]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:00,797 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736900797, commitIndex=86975454, changes=[[type=ADD, tstamp=1706736900795, entity=RealtimeCallQuality@fc1c7e1c5eea2115]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:00,798 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@4f1a5a29
+[1;31m2024-01[m-31 15:35:00,799 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@4741afef
+[1;31m2024-01[m-31 15:35:00,900 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736900898, commitIndex=86975455, changes=[[type=CHANGE, tstamp=1706736900894, entity=RealtimeRemoteParticipant@fca7bd66793093bc], [type=CHANGE, tstamp=1706736900894, entity=RealtimeCall@fc326f5c1865a944], [type=ADD, tstamp=1706736900895, entity=UserCallEvent@fc07c072bd45ba41], [type=ADD, tstamp=1706736900895, entity=RealtimeMessage@fc8b02a542525ab6]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:00,901 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@20a830cf
+[1;31m2024-01[m-31 15:35:00,902 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@e7a47cd
+[1;31m2024-01[m-31 15:35:01,171 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:01 CST 2024, timestamp: Wed Jan 31 15:35:01 CST 2024)
+[1;31m2024-01[m-31 15:35:02,172 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:02 CST 2024, timestamp: Wed Jan 31 15:35:02 CST 2024)
+[1;31m2024-01[m-31 15:35:03,172 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:03 CST 2024, timestamp: Wed Jan 31 15:35:03 CST 2024)
+[1;31m2024-01[m-31 15:35:04,172 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:04 CST 2024, timestamp: Wed Jan 31 15:35:04 CST 2024)
+[1;31m2024-01[m-31 15:35:05,172 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:05 CST 2024, timestamp: Wed Jan 31 15:35:05 CST 2024)
+[1;31m2024-01[m-31 15:35:06,172 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:06 CST 2024, timestamp: Wed Jan 31 15:35:06 CST 2024)
+[1;31m2024-01[m-31 15:35:07,173 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:07 CST 2024, timestamp: Wed Jan 31 15:35:07 CST 2024)
+[1;31m2024-01[m-31 15:35:08,173 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:08 CST 2024, timestamp: Wed Jan 31 15:35:08 CST 2024)
+[1;31m2024-01[m-31 15:35:09,173 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:09 CST 2024, timestamp: Wed Jan 31 15:35:09 CST 2024)
+[1;31m2024-01[m-31 15:35:10,173 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:10 CST 2024, timestamp: Wed Jan 31 15:35:10 CST 2024)
+[1;31m2024-01[m-31 15:35:11,173 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:11 CST 2024, timestamp: Wed Jan 31 15:35:11 CST 2024)
+[1;31m2024-01[m-31 15:35:12,173 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:12 CST 2024, timestamp: Wed Jan 31 15:35:12 CST 2024)
+[1;31m2024-01[m-31 15:35:13,174 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:13 CST 2024, timestamp: Wed Jan 31 15:35:13 CST 2024)
+[1;31m2024-01[m-31 15:35:13,701 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736913700, commitIndex=86975465, changes=[[type=REMOVE, tstamp=1706736913698, entity=RealtimeCallQuality@fc1c7e1c5eea2115]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:13,748 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736913746, commitIndex=-1, changes=[[type=ADD, tstamp=1706736913735, entity=HistoricalCall[
+  answerTime=Wed Jan 31 15:31:42 CST 2024
+  trunkID=90
+  trunkDescription=trunk-gateway-sip-peer-1
+  rapidSOSLocation=<null>
+  firstLocalParticipant=HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/station-integrated-sip-polycom-4-3-0006f702
+  leftOn=Wed Jan 31 15:35:00 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=jessica
+  displayId=0
+  uuid=3a29c2ba-f3c2-4a1d-b20f-813cb37fd9e1
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:42 CST 2024
+  updatedOn=Wed Jan 31 15:35:00 CST 2024
+]
+  historicalParticipants=[HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/station-integrated-sip-polycom-4-3-0006f702
+  leftOn=Wed Jan 31 15:35:00 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=jessica
+  displayId=0
+  uuid=3a29c2ba-f3c2-4a1d-b20f-813cb37fd9e1
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:42 CST 2024
+  updatedOn=Wed Jan 31 15:35:00 CST 2024
+], HistoricalRemoteParticipant[
+  number=6608268100
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  trunkName=trunk-gateway-sip-peer-1
+  trunkId=90
+  trunkType=admin
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/trunk-gateway-sip-peer-1-0006f6fa
+  leftOn=Wed Jan 31 15:35:00 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=<null>
+  displayId=0
+  uuid=451d5bd7-ef44-4dc3-962d-16dee3b582b7
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:39 CST 2024
+  updatedOn=Wed Jan 31 15:35:00 CST 2024
+], HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=true
+  silentMonitor=true
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/station-integrated-sip-polycom-3-3-0006f703
+  leftOn=Wed Jan 31 15:32:05 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=agartner
+  displayId=0
+  uuid=db3c32a7-7688-4a94-afd2-22bcb1167972
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:48 CST 2024
+  updatedOn=Wed Jan 31 15:32:05 CST 2024
+]]
+  initialized=false
+  type=Inbound
+  mediaType=Voice
+  status=Released
+  currentQueues=<null>
+  ringingUsers=<null>
+  involvedUsers=<null>
+  number=6602819985
+  callerName=WIRELESS CALLER
+  callbackNumber=6602819985
+  alternateNumber=<null>
+  dialedNumber=6608268100
+  tdd=false
+  conferenceRoom=f1c38ef2-bc09-4dac-a971-bd2304ea311f
+  recording=true
+  audioFile=/recordings/2024:031:21:31:GMT.station-integrated-sip-polycom-4-3-38123151270561824.WAV
+  heldForProcessing=false
+  aliPayload=<null>
+  aliAddress1=<null>
+  aliAddress2=<null>
+  aliCity=<null>
+  aliCounty=<null>
+  aliState=<null>
+  aliZip=<null>
+  aliX=<null>
+  aliY=<null>
+  aliName=<null>
+  telcoID=<null>
+  psapID=<null>
+  confidence=<null>
+  uncertainty=<null>
+  trunkClass=<null>
+  aliCustom1=<null>
+  aliCustom2=<null>
+  aliCustom3=<null>
+  aliResult=<null>
+  esn=<null>
+  agencies=<null>
+  locationURI=<null>
+  answerPosition=4
+  releasedOn=Wed Jan 31 15:35:00 CST 2024
+  event=c403ba0b-7197-4574-bfa9-09645cc5e7ad
+  relatedCallId=<null>
+  callInfo=<null>
+  aliUpdatedOn=<null>
+  trunkType=admin
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  acd=false
+  onNetTransfer=false
+  location=Location[
+  address1=
+  address2=
+  city=
+  state=
+  zip=
+  county=
+  country=
+  x=0.0
+  y=0.0
+  locationHash=d41d8cd98f00b204e9800998ecf8427e
+]
+  redialFromCallId=<null>
+  originatingTrunkType=admin
+  assignedAgent=<null>
+  reassociatedClusterUUID=<null>
+  dispatchGroups=[pettis]
+  displayId=276912
+  uuid=5be7c26e-a170-4018-8f63-f8d127230a56
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:39 CST 2024
+  updatedOn=Wed Jan 31 15:35:13 CST 2024
+]], [type=CHANGE, tstamp=1706736913737, entity=HistoricalCall[
+  answerTime=Wed Jan 31 15:31:42 CST 2024
+  trunkID=90
+  trunkDescription=trunk-gateway-sip-peer-1
+  rapidSOSLocation=<null>
+  firstLocalParticipant=HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/station-integrated-sip-polycom-4-3-0006f702
+  leftOn=Wed Jan 31 15:35:00 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=jessica
+  displayId=0
+  uuid=3a29c2ba-f3c2-4a1d-b20f-813cb37fd9e1
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:42 CST 2024
+  updatedOn=Wed Jan 31 15:35:00 CST 2024
+]
+  historicalParticipants=[HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/station-integrated-sip-polycom-4-3-0006f702
+  leftOn=Wed Jan 31 15:35:00 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=jessica
+  displayId=0
+  uuid=3a29c2ba-f3c2-4a1d-b20f-813cb37fd9e1
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:42 CST 2024
+  updatedOn=Wed Jan 31 15:35:00 CST 2024
+], HistoricalRemoteParticipant[
+  number=6608268100
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  trunkName=trunk-gateway-sip-peer-1
+  trunkId=90
+  trunkType=admin
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/trunk-gateway-sip-peer-1-0006f6fa
+  leftOn=Wed Jan 31 15:35:00 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=<null>
+  displayId=0
+  uuid=451d5bd7-ef44-4dc3-962d-16dee3b582b7
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:39 CST 2024
+  updatedOn=Wed Jan 31 15:35:00 CST 2024
+], HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=true
+  silentMonitor=true
+  call=com.clj2.business.model.historical.HistoricalCall@1e8a94fc
+  channel=SIP/station-integrated-sip-polycom-3-3-0006f703
+  leftOn=Wed Jan 31 15:32:05 CST 2024
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  username=agartner
+  displayId=0
+  uuid=db3c32a7-7688-4a94-afd2-22bcb1167972
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:48 CST 2024
+  updatedOn=Wed Jan 31 15:32:05 CST 2024
+]]
+  initialized=false
+  type=Inbound
+  mediaType=Voice
+  status=Released
+  currentQueues=<null>
+  ringingUsers=<null>
+  involvedUsers=<null>
+  number=6602819985
+  callerName=WIRELESS CALLER
+  callbackNumber=6602819985
+  alternateNumber=<null>
+  dialedNumber=6608268100
+  tdd=false
+  conferenceRoom=f1c38ef2-bc09-4dac-a971-bd2304ea311f
+  recording=true
+  audioFile=/recordings/2024:031:21:31:GMT.station-integrated-sip-polycom-4-3-38123151270561824.WAV
+  heldForProcessing=false
+  aliPayload=<null>
+  aliAddress1=<null>
+  aliAddress2=<null>
+  aliCity=<null>
+  aliCounty=<null>
+  aliState=<null>
+  aliZip=<null>
+  aliX=<null>
+  aliY=<null>
+  aliName=<null>
+  telcoID=<null>
+  psapID=<null>
+  confidence=<null>
+  uncertainty=<null>
+  trunkClass=<null>
+  aliCustom1=<null>
+  aliCustom2=<null>
+  aliCustom3=<null>
+  aliResult=<null>
+  esn=<null>
+  agencies=<null>
+  locationURI=<null>
+  answerPosition=4
+  releasedOn=Wed Jan 31 15:35:00 CST 2024
+  event=c403ba0b-7197-4574-bfa9-09645cc5e7ad
+  relatedCallId=<null>
+  callInfo=<null>
+  aliUpdatedOn=<null>
+  trunkType=admin
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  acd=false
+  onNetTransfer=false
+  location=Location[
+  address1=
+  address2=
+  city=
+  state=
+  zip=
+  county=
+  country=
+  x=0.0
+  y=0.0
+  locationHash=d41d8cd98f00b204e9800998ecf8427e
+]
+  redialFromCallId=<null>
+  originatingTrunkType=admin
+  assignedAgent=<null>
+  reassociatedClusterUUID=<null>
+  dispatchGroups=[pettis]
+  displayId=276912
+  uuid=5be7c26e-a170-4018-8f63-f8d127230a56
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:31:39 CST 2024
+  updatedOn=Wed Jan 31 15:35:13 CST 2024
+]]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:13,751 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736913750, commitIndex=86975466, changes=[[type=CHANGE, tstamp=1706736913748, entity=RealtimeQueueJoin@fcfc70450f8f70d8], [type=REMOVE, tstamp=1706736913748, entity=UserCallEvent@fc07c072bd45ba41], [type=REMOVE, tstamp=1706736913748, entity=UserCallEvent@fc07c08898203332], [type=REMOVE, tstamp=1706736913748, entity=UserCallEvent@fc07c0dc772178c9], [type=REMOVE, tstamp=1706736913748, entity=RealtimeCall@fc326f5c1865a944], [type=REMOVE, tstamp=1706736913748, entity=CDRLocation@fc681d86e6ebc219], [type=REMOVE, tstamp=1706736913748, entity=RealtimeRemoteParticipant@fca7bd66793093bc], [type=REMOVE, tstamp=1706736913748, entity=RealtimeLocalParticipant@fc54bf162b2d9e54], [type=REMOVE, tstamp=1706736913748, entity=RealtimeLocalParticipant@fc54bf21dbe00b1e]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:13,752 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@2e7804cb
+[1;31m2024-01[m-31 15:35:13,756 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736913755, commitIndex=-1, changes=[[type=ADD, tstamp=1706736913753, entity=HistoricalMessage[
+  message=Call ended. (call ID {strong}#276912{strong})
+  privy=false
+  createdOn=Wed Jan 31 15:35:00 CST 2024
+  type=system
+  username=<null>
+  targetedUsersString=<null>
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  incidentID=<null>
+  requestID=<null>
+  failed=false
+  displayId=0
+  uuid=242eaf03-f7c9-4547-aa51-439c27a067bc
+  clusterUUID=<null>
+  createdOn=Wed Jan 31 15:35:13 CST 2024
+  updatedOn=Wed Jan 31 15:35:13 CST 2024
+]]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:13,758 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736913758, commitIndex=86975467, changes=[[type=REMOVE, tstamp=1706736913755, entity=RealtimeMessage@fc8b02a542525ab6]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:13,759 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@3b383c54
+[1;31m2024-01[m-31 15:35:13,762 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736913761, commitIndex=-1, changes=[[type=ADD, tstamp=1706736913759, entity=HistoricalMessage[
+  message=Released call with number {strong}660-281-9985{strong}
+  privy=true
+  createdOn=Wed Jan 31 15:35:00 CST 2024
+  type=system
+  username=jessica
+  targetedUsersString=<null>
+  callID=5be7c26e-a170-4018-8f63-f8d127230a56
+  incidentID=<null>
+  requestID=<null>
+  failed=false
+  displayId=0
+  uuid=e4563644-023b-4f7f-baca-630b36909b91
+  clusterUUID=<null>
+  createdOn=Wed Jan 31 15:35:13 CST 2024
+  updatedOn=Wed Jan 31 15:35:13 CST 2024
+]]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:13,763 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706736913762, commitIndex=86975468, changes=[[type=REMOVE, tstamp=1706736913761, entity=RealtimeMessage@fc8b02e2424f3a24]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:35:13,764 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@522002b6
+[1;31m2024-01[m-31 15:35:14,174 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:14 CST 2024, timestamp: Wed Jan 31 15:35:14 CST 2024)
+[1;31m2024-01[m-31 15:35:15,174 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:15 CST 2024, timestamp: Wed Jan 31 15:35:15 CST 2024)
+[1;31m2024-01[m-31 15:35:16,174 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:16 CST 2024, timestamp: Wed Jan 31 15:35:16 CST 2024)
+[1;31m2024-01[m-31 15:35:17,174 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:17 CST 2024, timestamp: Wed Jan 31 15:35:17 CST 2024)
+[1;31m2024-01[m-31 15:35:18,174 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:18 CST 2024, timestamp: Wed Jan 31 15:35:18 CST 2024)
+[1;31m2024-01[m-31 15:35:19,175 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:19 CST 2024, timestamp: Wed Jan 31 15:35:19 CST 2024)
+[1;31m2024-01[m-31 15:35:20,175 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:20 CST 2024, timestamp: Wed Jan 31 15:35:20 CST 2024)
+[1;31m2024-01[m-31 15:35:21,175 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:21 CST 2024, timestamp: Wed Jan 31 15:35:21 CST 2024)
+[1;31m2024-01[m-31 15:35:22,175 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:22 CST 2024, timestamp: Wed Jan 31 15:35:22 CST 2024)
+[1;31m2024-01[m-31 15:35:23,176 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:23 CST 2024, timestamp: Wed Jan 31 15:35:23 CST 2024)
+[1;31m2024-01[m-31 15:35:24,176 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:24 CST 2024, timestamp: Wed Jan 31 15:35:24 CST 2024)
+[1;31m2024-01[m-31 15:35:25,176 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:25 CST 2024, timestamp: Wed Jan 31 15:35:25 CST 2024)
+[1;31m2024-01[m-31 15:35:26,176 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:26 CST 2024, timestamp: Wed Jan 31 15:35:26 CST 2024)
+[1;31m2024-01[m-31 15:35:27,177 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:27 CST 2024, timestamp: Wed Jan 31 15:35:27 CST 2024)
+[1;31m2024-01[m-31 15:35:28,177 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:28 CST 2024, timestamp: Wed Jan 31 15:35:28 CST 2024)
+[1;31m2024-01[m-31 15:35:29,177 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:29 CST 2024, timestamp: Wed Jan 31 15:35:29 CST 2024)
+[1;31m2024-01[m-31 15:35:30,177 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:30 CST 2024, timestamp: Wed Jan 31 15:35:30 CST 2024)
+[1;31m2024-01[m-31 15:35:31,178 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:31 CST 2024, timestamp: Wed Jan 31 15:35:31 CST 2024)
+[1;31m2024-01[m-31 15:35:32,178 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:32 CST 2024, timestamp: Wed Jan 31 15:35:32 CST 2024)
+[1;31m2024-01[m-31 15:35:33,178 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:33 CST 2024, timestamp: Wed Jan 31 15:35:33 CST 2024)
+[1;31m2024-01[m-31 15:35:34,016 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=746.1M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=309.0M, heap.memory.free=427.3M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185759, minor.gc.time=2527810ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=0.00%, load.systemAverage=0.00%, thread.count=305, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78548242, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:35:34,178 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:34 CST 2024, timestamp: Wed Jan 31 15:35:34 CST 2024)
+[1;31m2024-01[m-31 15:35:35,179 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:35 CST 2024, timestamp: Wed Jan 31 15:35:35 CST 2024)
+[1;31m2024-01[m-31 15:35:36,179 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:36 CST 2024, timestamp: Wed Jan 31 15:35:36 CST 2024)
+[1;31m2024-01[m-31 15:35:37,179 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:37 CST 2024, timestamp: Wed Jan 31 15:35:37 CST 2024)
+[1;31m2024-01[m-31 15:35:38,179 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:38 CST 2024, timestamp: Wed Jan 31 15:35:38 CST 2024)
+[1;31m2024-01[m-31 15:35:39,179 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:39 CST 2024, timestamp: Wed Jan 31 15:35:39 CST 2024)
+[1;31m2024-01[m-31 15:35:40,180 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:40 CST 2024, timestamp: Wed Jan 31 15:35:40 CST 2024)
+[1;31m2024-01[m-31 15:35:41,180 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:41 CST 2024, timestamp: Wed Jan 31 15:35:41 CST 2024)
+[1;31m2024-01[m-31 15:35:42,180 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:42 CST 2024, timestamp: Wed Jan 31 15:35:42 CST 2024)
+[1;31m2024-01[m-31 15:35:43,180 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:43 CST 2024, timestamp: Wed Jan 31 15:35:43 CST 2024)
+[1;31m2024-01[m-31 15:35:44,180 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:44 CST 2024, timestamp: Wed Jan 31 15:35:44 CST 2024)
+[1;31m2024-01[m-31 15:35:45,180 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:45 CST 2024, timestamp: Wed Jan 31 15:35:45 CST 2024)
+[1;31m2024-01[m-31 15:35:46,181 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:46 CST 2024, timestamp: Wed Jan 31 15:35:46 CST 2024)
+[1;31m2024-01[m-31 15:35:47,181 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:47 CST 2024, timestamp: Wed Jan 31 15:35:47 CST 2024)
+[1;31m2024-01[m-31 15:35:48,182 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:48 CST 2024, timestamp: Wed Jan 31 15:35:48 CST 2024)
+[1;31m2024-01[m-31 15:35:49,182 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:49 CST 2024, timestamp: Wed Jan 31 15:35:49 CST 2024)
+[1;31m2024-01[m-31 15:35:50,182 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:50 CST 2024, timestamp: Wed Jan 31 15:35:50 CST 2024)
+[1;31m2024-01[m-31 15:35:51,182 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:51 CST 2024, timestamp: Wed Jan 31 15:35:51 CST 2024)
+[1;31m2024-01[m-31 15:35:52,182 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:52 CST 2024, timestamp: Wed Jan 31 15:35:52 CST 2024)
+[1;31m2024-01[m-31 15:35:53,182 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:53 CST 2024, timestamp: Wed Jan 31 15:35:53 CST 2024)
+[1;31m2024-01[m-31 15:35:54,182 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:54 CST 2024, timestamp: Wed Jan 31 15:35:54 CST 2024)
+[1;31m2024-01[m-31 15:35:55,183 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:55 CST 2024, timestamp: Wed Jan 31 15:35:55 CST 2024)
+[1;31m2024-01[m-31 15:35:56,183 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:56 CST 2024, timestamp: Wed Jan 31 15:35:56 CST 2024)
+[1;31m2024-01[m-31 15:35:57,183 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:57 CST 2024, timestamp: Wed Jan 31 15:35:57 CST 2024)
+[1;31m2024-01[m-31 15:35:58,184 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:58 CST 2024, timestamp: Wed Jan 31 15:35:58 CST 2024)
+[1;31m2024-01[m-31 15:35:59,184 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:35:59 CST 2024, timestamp: Wed Jan 31 15:35:59 CST 2024)
+[1;31m2024-01[m-31 15:36:00,184 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:00 CST 2024, timestamp: Wed Jan 31 15:36:00 CST 2024)
+[1;31m2024-01[m-31 15:36:01,184 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:01 CST 2024, timestamp: Wed Jan 31 15:36:01 CST 2024)
+[1;31m2024-01[m-31 15:36:02,184 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:02 CST 2024, timestamp: Wed Jan 31 15:36:02 CST 2024)
+[1;31m2024-01[m-31 15:36:03,185 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:03 CST 2024, timestamp: Wed Jan 31 15:36:03 CST 2024)
+[1;31m2024-01[m-31 15:36:04,185 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:04 CST 2024, timestamp: Wed Jan 31 15:36:04 CST 2024)
+[1;31m2024-01[m-31 15:36:05,185 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:05 CST 2024, timestamp: Wed Jan 31 15:36:05 CST 2024)
+[1;31m2024-01[m-31 15:36:06,185 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:06 CST 2024, timestamp: Wed Jan 31 15:36:06 CST 2024)
+[1;31m2024-01[m-31 15:36:07,186 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:07 CST 2024, timestamp: Wed Jan 31 15:36:07 CST 2024)
+[1;31m2024-01[m-31 15:36:08,186 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:08 CST 2024, timestamp: Wed Jan 31 15:36:08 CST 2024)
+[1;31m2024-01[m-31 15:36:09,186 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:09 CST 2024, timestamp: Wed Jan 31 15:36:09 CST 2024)
+[1;31m2024-01[m-31 15:36:10,187 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:10 CST 2024, timestamp: Wed Jan 31 15:36:10 CST 2024)
+[1;31m2024-01[m-31 15:36:11,187 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:11 CST 2024, timestamp: Wed Jan 31 15:36:11 CST 2024)
+[1;31m2024-01[m-31 15:36:12,187 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:12 CST 2024, timestamp: Wed Jan 31 15:36:12 CST 2024)
+[1;31m2024-01[m-31 15:36:13,187 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:13 CST 2024, timestamp: Wed Jan 31 15:36:13 CST 2024)
+[1;31m2024-01[m-31 15:36:14,188 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:14 CST 2024, timestamp: Wed Jan 31 15:36:14 CST 2024)
+[1;31m2024-01[m-31 15:36:15,188 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:15 CST 2024, timestamp: Wed Jan 31 15:36:15 CST 2024)
+[1;31m2024-01[m-31 15:36:16,188 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:16 CST 2024, timestamp: Wed Jan 31 15:36:16 CST 2024)
+[1;31m2024-01[m-31 15:36:17,188 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:17 CST 2024, timestamp: Wed Jan 31 15:36:17 CST 2024)
+[1;31m2024-01[m-31 15:36:18,188 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:18 CST 2024, timestamp: Wed Jan 31 15:36:18 CST 2024)
+[1;31m2024-01[m-31 15:36:19,188 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:19 CST 2024, timestamp: Wed Jan 31 15:36:19 CST 2024)
+[1;31m2024-01[m-31 15:36:20,189 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:20 CST 2024, timestamp: Wed Jan 31 15:36:20 CST 2024)
+[1;31m2024-01[m-31 15:36:21,189 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:21 CST 2024, timestamp: Wed Jan 31 15:36:21 CST 2024)
+[1;31m2024-01[m-31 15:36:22,189 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:22 CST 2024, timestamp: Wed Jan 31 15:36:22 CST 2024)
+[1;31m2024-01[m-31 15:36:23,189 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:23 CST 2024, timestamp: Wed Jan 31 15:36:23 CST 2024)
+[1;31m2024-01[m-31 15:36:24,189 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:24 CST 2024, timestamp: Wed Jan 31 15:36:24 CST 2024)
+[1;31m2024-01[m-31 15:36:25,190 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:25 CST 2024, timestamp: Wed Jan 31 15:36:25 CST 2024)
+[1;31m2024-01[m-31 15:36:26,190 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:26 CST 2024, timestamp: Wed Jan 31 15:36:26 CST 2024)
+[1;31m2024-01[m-31 15:36:27,190 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:27 CST 2024, timestamp: Wed Jan 31 15:36:27 CST 2024)
+[1;31m2024-01[m-31 15:36:28,190 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:28 CST 2024, timestamp: Wed Jan 31 15:36:28 CST 2024)
+[1;31m2024-01[m-31 15:36:29,190 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:29 CST 2024, timestamp: Wed Jan 31 15:36:29 CST 2024)
+[1;31m2024-01[m-31 15:36:30,191 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:30 CST 2024, timestamp: Wed Jan 31 15:36:30 CST 2024)
+[1;31m2024-01[m-31 15:36:31,191 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:31 CST 2024, timestamp: Wed Jan 31 15:36:31 CST 2024)
+[1;31m2024-01[m-31 15:36:32,191 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:32 CST 2024, timestamp: Wed Jan 31 15:36:32 CST 2024)
+[1;31m2024-01[m-31 15:36:33,191 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:33 CST 2024, timestamp: Wed Jan 31 15:36:33 CST 2024)
+[1;31m2024-01[m-31 15:36:34,017 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=747.6M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=295.7M, heap.memory.free=440.7M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185760, minor.gc.time=2527823ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=1.00%, load.systemAverage=0.00%, thread.count=265, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78548581, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:36:34,191 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:34 CST 2024, timestamp: Wed Jan 31 15:36:34 CST 2024)
+[1;31m2024-01[m-31 15:36:35,192 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:35 CST 2024, timestamp: Wed Jan 31 15:36:35 CST 2024)
+[1;31m2024-01[m-31 15:36:36,192 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:36 CST 2024, timestamp: Wed Jan 31 15:36:36 CST 2024)
+[1;31m2024-01[m-31 15:36:37,192 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:37 CST 2024, timestamp: Wed Jan 31 15:36:37 CST 2024)
+[1;31m2024-01[m-31 15:36:38,192 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:38 CST 2024, timestamp: Wed Jan 31 15:36:38 CST 2024)
+[1;31m2024-01[m-31 15:36:39,193 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:39 CST 2024, timestamp: Wed Jan 31 15:36:39 CST 2024)
+[1;31m2024-01[m-31 15:36:40,193 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:40 CST 2024, timestamp: Wed Jan 31 15:36:40 CST 2024)
+[1;31m2024-01[m-31 15:36:41,193 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:41 CST 2024, timestamp: Wed Jan 31 15:36:41 CST 2024)
+[1;31m2024-01[m-31 15:36:42,193 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:42 CST 2024, timestamp: Wed Jan 31 15:36:42 CST 2024)
+[1;31m2024-01[m-31 15:36:43,193 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:43 CST 2024, timestamp: Wed Jan 31 15:36:43 CST 2024)
+[1;31m2024-01[m-31 15:36:44,193 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:44 CST 2024, timestamp: Wed Jan 31 15:36:44 CST 2024)
+[1;31m2024-01[m-31 15:36:45,194 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:45 CST 2024, timestamp: Wed Jan 31 15:36:45 CST 2024)
+[1;31m2024-01[m-31 15:36:46,194 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:46 CST 2024, timestamp: Wed Jan 31 15:36:46 CST 2024)
+[1;31m2024-01[m-31 15:36:47,194 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:47 CST 2024, timestamp: Wed Jan 31 15:36:47 CST 2024)
+[1;31m2024-01[m-31 15:36:48,194 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:48 CST 2024, timestamp: Wed Jan 31 15:36:48 CST 2024)
+[1;31m2024-01[m-31 15:36:49,195 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:49 CST 2024, timestamp: Wed Jan 31 15:36:49 CST 2024)
+[1;31m2024-01[m-31 15:36:50,195 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:50 CST 2024, timestamp: Wed Jan 31 15:36:50 CST 2024)
+[1;31m2024-01[m-31 15:36:51,195 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:51 CST 2024, timestamp: Wed Jan 31 15:36:51 CST 2024)
+[1;31m2024-01[m-31 15:36:52,195 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:52 CST 2024, timestamp: Wed Jan 31 15:36:52 CST 2024)
+[1;31m2024-01[m-31 15:36:53,196 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:53 CST 2024, timestamp: Wed Jan 31 15:36:53 CST 2024)
+[1;31m2024-01[m-31 15:36:54,196 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:54 CST 2024, timestamp: Wed Jan 31 15:36:54 CST 2024)
+[1;31m2024-01[m-31 15:36:55,196 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:55 CST 2024, timestamp: Wed Jan 31 15:36:55 CST 2024)
+[1;31m2024-01[m-31 15:36:56,196 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:56 CST 2024, timestamp: Wed Jan 31 15:36:56 CST 2024)
+[1;31m2024-01[m-31 15:36:57,196 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:57 CST 2024, timestamp: Wed Jan 31 15:36:57 CST 2024)
+[1;31m2024-01[m-31 15:36:58,196 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:58 CST 2024, timestamp: Wed Jan 31 15:36:58 CST 2024)
+[1;31m2024-01[m-31 15:36:59,197 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:36:59 CST 2024, timestamp: Wed Jan 31 15:36:59 CST 2024)
+[1;31m2024-01[m-31 15:37:00,197 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:00 CST 2024, timestamp: Wed Jan 31 15:37:00 CST 2024)
+[1;31m2024-01[m-31 15:37:01,197 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:01 CST 2024, timestamp: Wed Jan 31 15:37:01 CST 2024)
+[1;31m2024-01[m-31 15:37:02,197 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:02 CST 2024, timestamp: Wed Jan 31 15:37:02 CST 2024)
+[1;31m2024-01[m-31 15:37:03,198 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:03 CST 2024, timestamp: Wed Jan 31 15:37:03 CST 2024)
+[1;31m2024-01[m-31 15:37:04,198 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:04 CST 2024, timestamp: Wed Jan 31 15:37:04 CST 2024)
+[1;31m2024-01[m-31 15:37:05,198 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:05 CST 2024, timestamp: Wed Jan 31 15:37:05 CST 2024)
+[1;31m2024-01[m-31 15:37:06,198 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:06 CST 2024, timestamp: Wed Jan 31 15:37:06 CST 2024)
+[1;31m2024-01[m-31 15:37:07,198 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:07 CST 2024, timestamp: Wed Jan 31 15:37:07 CST 2024)
+[1;31m2024-01[m-31 15:37:08,199 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:08 CST 2024, timestamp: Wed Jan 31 15:37:08 CST 2024)
+[1;31m2024-01[m-31 15:37:09,199 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:09 CST 2024, timestamp: Wed Jan 31 15:37:09 CST 2024)
+[1;31m2024-01[m-31 15:37:10,199 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:10 CST 2024, timestamp: Wed Jan 31 15:37:10 CST 2024)
+[1;31m2024-01[m-31 15:37:11,199 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:11 CST 2024, timestamp: Wed Jan 31 15:37:11 CST 2024)
+[1;31m2024-01[m-31 15:37:12,199 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:12 CST 2024, timestamp: Wed Jan 31 15:37:12 CST 2024)
+[1;31m2024-01[m-31 15:37:13,199 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:13 CST 2024, timestamp: Wed Jan 31 15:37:13 CST 2024)
+[1;31m2024-01[m-31 15:37:14,200 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:14 CST 2024, timestamp: Wed Jan 31 15:37:14 CST 2024)
+[1;31m2024-01[m-31 15:37:15,200 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:15 CST 2024, timestamp: Wed Jan 31 15:37:15 CST 2024)
+[1;31m2024-01[m-31 15:37:16,200 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:16 CST 2024, timestamp: Wed Jan 31 15:37:16 CST 2024)
+[1;31m2024-01[m-31 15:37:17,200 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:17 CST 2024, timestamp: Wed Jan 31 15:37:17 CST 2024)
+[1;31m2024-01[m-31 15:37:18,200 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:18 CST 2024, timestamp: Wed Jan 31 15:37:18 CST 2024)
+[1;31m2024-01[m-31 15:37:19,200 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:19 CST 2024, timestamp: Wed Jan 31 15:37:19 CST 2024)
+[1;31m2024-01[m-31 15:37:20,201 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:20 CST 2024, timestamp: Wed Jan 31 15:37:20 CST 2024)
+[1;31m2024-01[m-31 15:37:21,201 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:21 CST 2024, timestamp: Wed Jan 31 15:37:21 CST 2024)
+[1;31m2024-01[m-31 15:37:22,201 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:22 CST 2024, timestamp: Wed Jan 31 15:37:22 CST 2024)
+[1;31m2024-01[m-31 15:37:23,201 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:23 CST 2024, timestamp: Wed Jan 31 15:37:23 CST 2024)
+[1;31m2024-01[m-31 15:37:24,201 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:24 CST 2024, timestamp: Wed Jan 31 15:37:24 CST 2024)
+[1;31m2024-01[m-31 15:37:25,201 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:25 CST 2024, timestamp: Wed Jan 31 15:37:25 CST 2024)
+[1;31m2024-01[m-31 15:37:26,202 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:26 CST 2024, timestamp: Wed Jan 31 15:37:26 CST 2024)
+[1;31m2024-01[m-31 15:37:27,202 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:27 CST 2024, timestamp: Wed Jan 31 15:37:27 CST 2024)
+[1;31m2024-01[m-31 15:37:28,202 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:28 CST 2024, timestamp: Wed Jan 31 15:37:28 CST 2024)
+[1;31m2024-01[m-31 15:37:29,202 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:29 CST 2024, timestamp: Wed Jan 31 15:37:29 CST 2024)
+[1;31m2024-01[m-31 15:37:30,202 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:30 CST 2024, timestamp: Wed Jan 31 15:37:30 CST 2024)
+[1;31m2024-01[m-31 15:37:31,203 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:31 CST 2024, timestamp: Wed Jan 31 15:37:31 CST 2024)
+[1;31m2024-01[m-31 15:37:32,203 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:32 CST 2024, timestamp: Wed Jan 31 15:37:32 CST 2024)
+[1;31m2024-01[m-31 15:37:33,203 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:33 CST 2024, timestamp: Wed Jan 31 15:37:33 CST 2024)
+[1;31m2024-01[m-31 15:37:34,019 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=746.4M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=279.4M, heap.memory.free=457.0M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185761, minor.gc.time=2527834ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=1.00%, load.systemAverage=0.00%, thread.count=264, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78548920, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:37:34,203 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:34 CST 2024, timestamp: Wed Jan 31 15:37:34 CST 2024)
+[1;31m2024-01[m-31 15:37:35,203 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:35 CST 2024, timestamp: Wed Jan 31 15:37:35 CST 2024)
+[1;31m2024-01[m-31 15:37:36,203 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:36 CST 2024, timestamp: Wed Jan 31 15:37:36 CST 2024)
+[1;31m2024-01[m-31 15:37:37,203 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:37 CST 2024, timestamp: Wed Jan 31 15:37:37 CST 2024)
+[1;31m2024-01[m-31 15:37:38,204 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:38 CST 2024, timestamp: Wed Jan 31 15:37:38 CST 2024)
+[1;31m2024-01[m-31 15:37:39,204 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:39 CST 2024, timestamp: Wed Jan 31 15:37:39 CST 2024)
+[1;31m2024-01[m-31 15:37:40,204 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:40 CST 2024, timestamp: Wed Jan 31 15:37:40 CST 2024)
+[1;31m2024-01[m-31 15:37:41,205 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:41 CST 2024, timestamp: Wed Jan 31 15:37:41 CST 2024)
+[1;31m2024-01[m-31 15:37:42,205 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:42 CST 2024, timestamp: Wed Jan 31 15:37:42 CST 2024)
+[1;31m2024-01[m-31 15:37:43,205 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:43 CST 2024, timestamp: Wed Jan 31 15:37:43 CST 2024)
+[1;31m2024-01[m-31 15:37:44,205 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:44 CST 2024, timestamp: Wed Jan 31 15:37:44 CST 2024)
+[1;31m2024-01[m-31 15:37:45,205 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:45 CST 2024, timestamp: Wed Jan 31 15:37:45 CST 2024)
+[1;31m2024-01[m-31 15:37:46,205 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:46 CST 2024, timestamp: Wed Jan 31 15:37:46 CST 2024)
+[1;31m2024-01[m-31 15:37:47,206 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:47 CST 2024, timestamp: Wed Jan 31 15:37:47 CST 2024)
+[1;31m2024-01[m-31 15:37:48,206 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:48 CST 2024, timestamp: Wed Jan 31 15:37:48 CST 2024)
+[1;31m2024-01[m-31 15:37:49,206 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:49 CST 2024, timestamp: Wed Jan 31 15:37:49 CST 2024)
+[1;31m2024-01[m-31 15:37:50,206 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:50 CST 2024, timestamp: Wed Jan 31 15:37:50 CST 2024)
+[1;31m2024-01[m-31 15:37:51,207 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:51 CST 2024, timestamp: Wed Jan 31 15:37:51 CST 2024)
+[1;31m2024-01[m-31 15:37:52,207 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:52 CST 2024, timestamp: Wed Jan 31 15:37:52 CST 2024)
+[1;31m2024-01[m-31 15:37:53,207 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:53 CST 2024, timestamp: Wed Jan 31 15:37:53 CST 2024)
+[1;31m2024-01[m-31 15:37:54,207 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:54 CST 2024, timestamp: Wed Jan 31 15:37:54 CST 2024)
+[1;31m2024-01[m-31 15:37:55,207 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:55 CST 2024, timestamp: Wed Jan 31 15:37:55 CST 2024)
+[1;31m2024-01[m-31 15:37:56,208 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:56 CST 2024, timestamp: Wed Jan 31 15:37:56 CST 2024)
+[1;31m2024-01[m-31 15:37:57,208 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:57 CST 2024, timestamp: Wed Jan 31 15:37:57 CST 2024)
+[1;31m2024-01[m-31 15:37:58,208 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:58 CST 2024, timestamp: Wed Jan 31 15:37:58 CST 2024)
+[1;31m2024-01[m-31 15:37:59,208 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:37:59 CST 2024, timestamp: Wed Jan 31 15:37:59 CST 2024)
+[1;31m2024-01[m-31 15:38:00,208 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:00 CST 2024, timestamp: Wed Jan 31 15:38:00 CST 2024)
+[1;31m2024-01[m-31 15:38:01,209 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:01 CST 2024, timestamp: Wed Jan 31 15:38:01 CST 2024)
+[1;31m2024-01[m-31 15:38:02,209 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:02 CST 2024, timestamp: Wed Jan 31 15:38:02 CST 2024)
+[1;31m2024-01[m-31 15:38:03,209 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:03 CST 2024, timestamp: Wed Jan 31 15:38:03 CST 2024)
+[1;31m2024-01[m-31 15:38:04,209 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:04 CST 2024, timestamp: Wed Jan 31 15:38:04 CST 2024)
+[1;31m2024-01[m-31 15:38:05,210 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:05 CST 2024, timestamp: Wed Jan 31 15:38:05 CST 2024)
+[1;31m2024-01[m-31 15:38:06,210 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:06 CST 2024, timestamp: Wed Jan 31 15:38:06 CST 2024)
+[1;31m2024-01[m-31 15:38:07,210 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:07 CST 2024, timestamp: Wed Jan 31 15:38:07 CST 2024)
+[1;31m2024-01[m-31 15:38:08,210 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:08 CST 2024, timestamp: Wed Jan 31 15:38:08 CST 2024)
+[1;31m2024-01[m-31 15:38:09,210 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:09 CST 2024, timestamp: Wed Jan 31 15:38:09 CST 2024)
+[1;31m2024-01[m-31 15:38:10,211 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:10 CST 2024, timestamp: Wed Jan 31 15:38:10 CST 2024)
+[1;31m2024-01[m-31 15:38:11,211 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:11 CST 2024, timestamp: Wed Jan 31 15:38:11 CST 2024)
+[1;31m2024-01[m-31 15:38:12,211 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:12 CST 2024, timestamp: Wed Jan 31 15:38:12 CST 2024)
+[1;31m2024-01[m-31 15:38:13,211 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:13 CST 2024, timestamp: Wed Jan 31 15:38:13 CST 2024)
+[1;31m2024-01[m-31 15:38:14,211 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:14 CST 2024, timestamp: Wed Jan 31 15:38:14 CST 2024)
+[1;31m2024-01[m-31 15:38:15,212 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:15 CST 2024, timestamp: Wed Jan 31 15:38:15 CST 2024)
+[1;31m2024-01[m-31 15:38:16,212 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:16 CST 2024, timestamp: Wed Jan 31 15:38:16 CST 2024)
+[1;31m2024-01[m-31 15:38:17,212 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:17 CST 2024, timestamp: Wed Jan 31 15:38:17 CST 2024)
+[1;31m2024-01[m-31 15:38:18,212 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:18 CST 2024, timestamp: Wed Jan 31 15:38:18 CST 2024)
+[1;31m2024-01[m-31 15:38:19,212 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:19 CST 2024, timestamp: Wed Jan 31 15:38:19 CST 2024)
+[1;31m2024-01[m-31 15:38:20,212 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:20 CST 2024, timestamp: Wed Jan 31 15:38:20 CST 2024)
+[1;31m2024-01[m-31 15:38:21,213 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:21 CST 2024, timestamp: Wed Jan 31 15:38:21 CST 2024)
+[1;31m2024-01[m-31 15:38:22,213 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:22 CST 2024, timestamp: Wed Jan 31 15:38:22 CST 2024)
+[1;31m2024-01[m-31 15:38:23,213 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:23 CST 2024, timestamp: Wed Jan 31 15:38:23 CST 2024)
+[1;31m2024-01[m-31 15:38:24,213 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:24 CST 2024, timestamp: Wed Jan 31 15:38:24 CST 2024)
+[1;31m2024-01[m-31 15:38:25,213 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:25 CST 2024, timestamp: Wed Jan 31 15:38:25 CST 2024)
+[1;31m2024-01[m-31 15:38:26,214 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:26 CST 2024, timestamp: Wed Jan 31 15:38:26 CST 2024)
+[1;31m2024-01[m-31 15:38:27,214 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:27 CST 2024, timestamp: Wed Jan 31 15:38:27 CST 2024)
+[1;31m2024-01[m-31 15:38:28,214 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:28 CST 2024, timestamp: Wed Jan 31 15:38:28 CST 2024)
+[1;31m2024-01[m-31 15:38:29,215 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:29 CST 2024, timestamp: Wed Jan 31 15:38:29 CST 2024)
+[1;31m2024-01[m-31 15:38:30,215 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:30 CST 2024, timestamp: Wed Jan 31 15:38:30 CST 2024)
+[1;31m2024-01[m-31 15:38:31,215 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:31 CST 2024, timestamp: Wed Jan 31 15:38:31 CST 2024)
+[1;31m2024-01[m-31 15:38:32,215 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:32 CST 2024, timestamp: Wed Jan 31 15:38:32 CST 2024)
+[1;31m2024-01[m-31 15:38:33,215 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:33 CST 2024, timestamp: Wed Jan 31 15:38:33 CST 2024)
+[1;31m2024-01[m-31 15:38:34,020 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=746.1M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=263.5M, heap.memory.free=472.9M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185762, minor.gc.time=2527846ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=0.00%, load.systemAverage=0.00%, thread.count=264, thread.peakCount=407, cluster.timeDiff=-39, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78549259, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:38:34,216 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:34 CST 2024, timestamp: Wed Jan 31 15:38:34 CST 2024)
+[1;31m2024-01[m-31 15:38:35,216 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:35 CST 2024, timestamp: Wed Jan 31 15:38:35 CST 2024)
+[1;31m2024-01[m-31 15:38:36,216 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:36 CST 2024, timestamp: Wed Jan 31 15:38:36 CST 2024)
+[1;31m2024-01[m-31 15:38:37,216 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:37 CST 2024, timestamp: Wed Jan 31 15:38:37 CST 2024)
+[1;31m2024-01[m-31 15:38:38,216 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:38 CST 2024, timestamp: Wed Jan 31 15:38:38 CST 2024)
+[1;31m2024-01[m-31 15:38:39,217 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:39 CST 2024, timestamp: Wed Jan 31 15:38:39 CST 2024)
+[1;31m2024-01[m-31 15:38:40,216 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:40 CST 2024, timestamp: Wed Jan 31 15:38:40 CST 2024)
+[1;31m2024-01[m-31 15:38:41,217 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:41 CST 2024, timestamp: Wed Jan 31 15:38:41 CST 2024)
+[1;31m2024-01[m-31 15:38:42,217 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:42 CST 2024, timestamp: Wed Jan 31 15:38:42 CST 2024)
+[1;31m2024-01[m-31 15:38:43,217 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:43 CST 2024, timestamp: Wed Jan 31 15:38:43 CST 2024)
+[1;31m2024-01[m-31 15:38:44,217 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:44 CST 2024, timestamp: Wed Jan 31 15:38:44 CST 2024)
+[1;31m2024-01[m-31 15:38:45,217 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:45 CST 2024, timestamp: Wed Jan 31 15:38:45 CST 2024)
+[1;31m2024-01[m-31 15:38:46,217 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:46 CST 2024, timestamp: Wed Jan 31 15:38:46 CST 2024)
+[1;31m2024-01[m-31 15:38:47,218 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:47 CST 2024, timestamp: Wed Jan 31 15:38:47 CST 2024)
+[1;31m2024-01[m-31 15:38:48,218 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:48 CST 2024, timestamp: Wed Jan 31 15:38:48 CST 2024)
+[1;31m2024-01[m-31 15:38:49,217 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:49 CST 2024, timestamp: Wed Jan 31 15:38:49 CST 2024)
+[1;31m2024-01[m-31 15:38:50,218 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:50 CST 2024, timestamp: Wed Jan 31 15:38:50 CST 2024)
+[1;31m2024-01[m-31 15:38:51,218 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:51 CST 2024, timestamp: Wed Jan 31 15:38:51 CST 2024)
+[1;31m2024-01[m-31 15:38:52,219 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:52 CST 2024, timestamp: Wed Jan 31 15:38:52 CST 2024)
+[1;31m2024-01[m-31 15:38:53,219 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:53 CST 2024, timestamp: Wed Jan 31 15:38:53 CST 2024)
+[1;31m2024-01[m-31 15:38:54,219 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:54 CST 2024, timestamp: Wed Jan 31 15:38:54 CST 2024)
+[1;31m2024-01[m-31 15:38:55,219 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:55 CST 2024, timestamp: Wed Jan 31 15:38:55 CST 2024)
+[1;31m2024-01[m-31 15:38:56,219 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:56 CST 2024, timestamp: Wed Jan 31 15:38:56 CST 2024)
+[1;31m2024-01[m-31 15:38:57,220 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:57 CST 2024, timestamp: Wed Jan 31 15:38:57 CST 2024)
+[1;31m2024-01[m-31 15:38:58,220 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:58 CST 2024, timestamp: Wed Jan 31 15:38:58 CST 2024)
+[1;31m2024-01[m-31 15:38:59,220 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:38:59 CST 2024, timestamp: Wed Jan 31 15:38:59 CST 2024)
+[1;31m2024-01[m-31 15:39:00,220 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:00 CST 2024, timestamp: Wed Jan 31 15:39:00 CST 2024)
+[1;31m2024-01[m-31 15:39:01,220 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:01 CST 2024, timestamp: Wed Jan 31 15:39:01 CST 2024)
+[1;31m2024-01[m-31 15:39:02,221 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:02 CST 2024, timestamp: Wed Jan 31 15:39:02 CST 2024)
+[1;31m2024-01[m-31 15:39:03,221 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:03 CST 2024, timestamp: Wed Jan 31 15:39:03 CST 2024)
+[1;31m2024-01[m-31 15:39:04,221 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:04 CST 2024, timestamp: Wed Jan 31 15:39:04 CST 2024)
+[1;31m2024-01[m-31 15:39:05,221 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:05 CST 2024, timestamp: Wed Jan 31 15:39:05 CST 2024)
+[1;31m2024-01[m-31 15:39:06,221 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:06 CST 2024, timestamp: Wed Jan 31 15:39:06 CST 2024)
+[1;31m2024-01[m-31 15:39:07,222 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:07 CST 2024, timestamp: Wed Jan 31 15:39:07 CST 2024)
+[1;31m2024-01[m-31 15:39:08,222 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:08 CST 2024, timestamp: Wed Jan 31 15:39:08 CST 2024)
+[1;31m2024-01[m-31 15:39:09,222 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:09 CST 2024, timestamp: Wed Jan 31 15:39:09 CST 2024)
+[1;31m2024-01[m-31 15:39:10,222 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:10 CST 2024, timestamp: Wed Jan 31 15:39:10 CST 2024)
+[1;31m2024-01[m-31 15:39:11,222 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:11 CST 2024, timestamp: Wed Jan 31 15:39:11 CST 2024)
+[1;31m2024-01[m-31 15:39:12,223 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:12 CST 2024, timestamp: Wed Jan 31 15:39:12 CST 2024)
+[1;31m2024-01[m-31 15:39:13,223 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:13 CST 2024, timestamp: Wed Jan 31 15:39:13 CST 2024)
+[1;31m2024-01[m-31 15:39:14,223 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:14 CST 2024, timestamp: Wed Jan 31 15:39:14 CST 2024)
+[1;31m2024-01[m-31 15:39:15,223 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:15 CST 2024, timestamp: Wed Jan 31 15:39:15 CST 2024)
+[1;31m2024-01[m-31 15:39:16,223 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:16 CST 2024, timestamp: Wed Jan 31 15:39:16 CST 2024)
+[1;31m2024-01[m-31 15:39:17,224 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:17 CST 2024, timestamp: Wed Jan 31 15:39:17 CST 2024)
+[1;31m2024-01[m-31 15:39:18,224 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:18 CST 2024, timestamp: Wed Jan 31 15:39:18 CST 2024)
+[1;31m2024-01[m-31 15:39:19,224 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:19 CST 2024, timestamp: Wed Jan 31 15:39:19 CST 2024)
+[1;31m2024-01[m-31 15:39:20,224 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:20 CST 2024, timestamp: Wed Jan 31 15:39:20 CST 2024)
+[1;31m2024-01[m-31 15:39:21,224 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:21 CST 2024, timestamp: Wed Jan 31 15:39:21 CST 2024)
+[1;31m2024-01[m-31 15:39:22,225 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:22 CST 2024, timestamp: Wed Jan 31 15:39:22 CST 2024)
+[1;31m2024-01[m-31 15:39:23,225 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:23 CST 2024, timestamp: Wed Jan 31 15:39:23 CST 2024)
+[1;31m2024-01[m-31 15:39:24,225 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:24 CST 2024, timestamp: Wed Jan 31 15:39:24 CST 2024)
+[1;31m2024-01[m-31 15:39:25,225 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:25 CST 2024, timestamp: Wed Jan 31 15:39:25 CST 2024)
+[1;31m2024-01[m-31 15:39:26,226 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:26 CST 2024, timestamp: Wed Jan 31 15:39:26 CST 2024)
+[1;31m2024-01[m-31 15:39:27,226 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:27 CST 2024, timestamp: Wed Jan 31 15:39:27 CST 2024)
+[1;31m2024-01[m-31 15:39:28,226 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:28 CST 2024, timestamp: Wed Jan 31 15:39:28 CST 2024)
+[1;31m2024-01[m-31 15:39:29,226 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:29 CST 2024, timestamp: Wed Jan 31 15:39:29 CST 2024)
+[1;31m2024-01[m-31 15:39:30,226 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:30 CST 2024, timestamp: Wed Jan 31 15:39:30 CST 2024)
+[1;31m2024-01[m-31 15:39:31,226 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:31 CST 2024, timestamp: Wed Jan 31 15:39:31 CST 2024)
+[1;31m2024-01[m-31 15:39:32,226 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:32 CST 2024, timestamp: Wed Jan 31 15:39:32 CST 2024)
+[1;31m2024-01[m-31 15:39:33,227 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:33 CST 2024, timestamp: Wed Jan 31 15:39:33 CST 2024)
+[1;31m2024-01[m-31 15:39:34,021 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=748.4M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=310.6M, heap.memory.free=425.8M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185762, minor.gc.time=2527846ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=0.00%, load.systemAverage=0.00%, thread.count=264, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78549598, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:39:34,227 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:34 CST 2024, timestamp: Wed Jan 31 15:39:34 CST 2024)
+[1;31m2024-01[m-31 15:39:34,740 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737174738, commitIndex=86975642, changes=[[type=ADD, tstamp=1706737174737, entity=RealtimeUserAuthenticationRecord@fc7323bada60f946], [type=ADD, tstamp=1706737174738, entity=RealtimeAuthenticatedUser@fc0f67253d345495]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:39:34,740 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@eb87310
+[1;31m2024-01[m-31 15:39:34,741 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@47a1500
+[1;31m2024-01[m-31 15:39:35,227 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:35 CST 2024, timestamp: Wed Jan 31 15:39:35 CST 2024)
+[1;31m2024-01[m-31 15:39:36,227 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:36 CST 2024, timestamp: Wed Jan 31 15:39:36 CST 2024)
+[1;31m2024-01[m-31 15:39:37,228 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:37 CST 2024, timestamp: Wed Jan 31 15:39:37 CST 2024)
+[1;31m2024-01[m-31 15:39:38,228 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:38 CST 2024, timestamp: Wed Jan 31 15:39:38 CST 2024)
+[1;31m2024-01[m-31 15:39:39,228 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:39 CST 2024, timestamp: Wed Jan 31 15:39:39 CST 2024)
+[1;31m2024-01[m-31 15:39:40,228 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:40 CST 2024, timestamp: Wed Jan 31 15:39:40 CST 2024)
+[1;31m2024-01[m-31 15:39:41,228 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:41 CST 2024, timestamp: Wed Jan 31 15:39:41 CST 2024)
+[1;31m2024-01[m-31 15:39:42,228 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:42 CST 2024, timestamp: Wed Jan 31 15:39:42 CST 2024)
+[1;31m2024-01[m-31 15:39:43,229 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:43 CST 2024, timestamp: Wed Jan 31 15:39:43 CST 2024)
+[1;31m2024-01[m-31 15:39:44,229 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:44 CST 2024, timestamp: Wed Jan 31 15:39:44 CST 2024)
+[1;31m2024-01[m-31 15:39:45,229 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:45 CST 2024, timestamp: Wed Jan 31 15:39:45 CST 2024)
+[1;31m2024-01[m-31 15:39:46,230 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:46 CST 2024, timestamp: Wed Jan 31 15:39:46 CST 2024)
+[1;31m2024-01[m-31 15:39:47,229 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:47 CST 2024, timestamp: Wed Jan 31 15:39:47 CST 2024)
+[1;31m2024-01[m-31 15:39:48,230 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:48 CST 2024, timestamp: Wed Jan 31 15:39:48 CST 2024)
+[1;31m2024-01[m-31 15:39:49,230 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:49 CST 2024, timestamp: Wed Jan 31 15:39:49 CST 2024)
+[1;31m2024-01[m-31 15:39:50,230 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:50 CST 2024, timestamp: Wed Jan 31 15:39:50 CST 2024)
+[1;31m2024-01[m-31 15:39:51,230 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:51 CST 2024, timestamp: Wed Jan 31 15:39:51 CST 2024)
+[1;31m2024-01[m-31 15:39:52,230 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:52 CST 2024, timestamp: Wed Jan 31 15:39:52 CST 2024)
+[1;31m2024-01[m-31 15:39:53,231 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:53 CST 2024, timestamp: Wed Jan 31 15:39:53 CST 2024)
+[1;31m2024-01[m-31 15:39:54,231 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:54 CST 2024, timestamp: Wed Jan 31 15:39:54 CST 2024)
+[1;31m2024-01[m-31 15:39:55,231 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:55 CST 2024, timestamp: Wed Jan 31 15:39:55 CST 2024)
+[1;31m2024-01[m-31 15:39:56,231 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:56 CST 2024, timestamp: Wed Jan 31 15:39:56 CST 2024)
+[1;31m2024-01[m-31 15:39:57,231 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:57 CST 2024, timestamp: Wed Jan 31 15:39:57 CST 2024)
+[1;31m2024-01[m-31 15:39:58,232 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:58 CST 2024, timestamp: Wed Jan 31 15:39:58 CST 2024)
+[1;31m2024-01[m-31 15:39:59,232 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:39:59 CST 2024, timestamp: Wed Jan 31 15:39:59 CST 2024)
+[1;31m2024-01[m-31 15:40:00,232 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:00 CST 2024, timestamp: Wed Jan 31 15:40:00 CST 2024)
+[1;31m2024-01[m-31 15:40:01,232 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:01 CST 2024, timestamp: Wed Jan 31 15:40:01 CST 2024)
+[1;31m2024-01[m-31 15:40:02,232 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:02 CST 2024, timestamp: Wed Jan 31 15:40:02 CST 2024)
+[1;31m2024-01[m-31 15:40:03,232 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:03 CST 2024, timestamp: Wed Jan 31 15:40:03 CST 2024)
+[1;31m2024-01[m-31 15:40:04,233 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:04 CST 2024, timestamp: Wed Jan 31 15:40:04 CST 2024)
+[1;31m2024-01[m-31 15:40:05,233 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:05 CST 2024, timestamp: Wed Jan 31 15:40:05 CST 2024)
+[1;31m2024-01[m-31 15:40:06,233 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:06 CST 2024, timestamp: Wed Jan 31 15:40:06 CST 2024)
+[1;31m2024-01[m-31 15:40:07,233 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:07 CST 2024, timestamp: Wed Jan 31 15:40:07 CST 2024)
+[1;31m2024-01[m-31 15:40:08,233 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:08 CST 2024, timestamp: Wed Jan 31 15:40:08 CST 2024)
+[1;31m2024-01[m-31 15:40:09,233 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:09 CST 2024, timestamp: Wed Jan 31 15:40:09 CST 2024)
+[1;31m2024-01[m-31 15:40:10,234 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:10 CST 2024, timestamp: Wed Jan 31 15:40:10 CST 2024)
+[1;31m2024-01[m-31 15:40:11,234 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:11 CST 2024, timestamp: Wed Jan 31 15:40:11 CST 2024)
+[1;31m2024-01[m-31 15:40:12,234 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:12 CST 2024, timestamp: Wed Jan 31 15:40:12 CST 2024)
+[1;31m2024-01[m-31 15:40:13,235 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:13 CST 2024, timestamp: Wed Jan 31 15:40:13 CST 2024)
+[1;31m2024-01[m-31 15:40:14,235 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:14 CST 2024, timestamp: Wed Jan 31 15:40:14 CST 2024)
+[1;31m2024-01[m-31 15:40:15,235 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:15 CST 2024, timestamp: Wed Jan 31 15:40:15 CST 2024)
+[1;31m2024-01[m-31 15:40:16,235 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:16 CST 2024, timestamp: Wed Jan 31 15:40:16 CST 2024)
+[1;31m2024-01[m-31 15:40:17,235 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:17 CST 2024, timestamp: Wed Jan 31 15:40:17 CST 2024)
+[1;31m2024-01[m-31 15:40:18,235 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:18 CST 2024, timestamp: Wed Jan 31 15:40:18 CST 2024)
+[1;31m2024-01[m-31 15:40:19,235 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:19 CST 2024, timestamp: Wed Jan 31 15:40:19 CST 2024)
+[1;31m2024-01[m-31 15:40:20,236 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:20 CST 2024, timestamp: Wed Jan 31 15:40:20 CST 2024)
+[1;31m2024-01[m-31 15:40:21,236 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:21 CST 2024, timestamp: Wed Jan 31 15:40:21 CST 2024)
+[1;31m2024-01[m-31 15:40:22,236 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:22 CST 2024, timestamp: Wed Jan 31 15:40:22 CST 2024)
+[1;31m2024-01[m-31 15:40:23,237 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:23 CST 2024, timestamp: Wed Jan 31 15:40:23 CST 2024)
+[1;31m2024-01[m-31 15:40:24,237 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:24 CST 2024, timestamp: Wed Jan 31 15:40:24 CST 2024)
+[1;31m2024-01[m-31 15:40:25,237 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:25 CST 2024, timestamp: Wed Jan 31 15:40:25 CST 2024)
+[1;31m2024-01[m-31 15:40:26,237 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:26 CST 2024, timestamp: Wed Jan 31 15:40:26 CST 2024)
+[1;31m2024-01[m-31 15:40:27,237 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:27 CST 2024, timestamp: Wed Jan 31 15:40:27 CST 2024)
+[1;31m2024-01[m-31 15:40:28,237 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:28 CST 2024, timestamp: Wed Jan 31 15:40:28 CST 2024)
+[1;31m2024-01[m-31 15:40:29,237 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:29 CST 2024, timestamp: Wed Jan 31 15:40:29 CST 2024)
+[1;31m2024-01[m-31 15:40:30,238 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:30 CST 2024, timestamp: Wed Jan 31 15:40:30 CST 2024)
+[1;31m2024-01[m-31 15:40:31,238 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:31 CST 2024, timestamp: Wed Jan 31 15:40:31 CST 2024)
+[1;31m2024-01[m-31 15:40:32,238 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:32 CST 2024, timestamp: Wed Jan 31 15:40:32 CST 2024)
+[1;31m2024-01[m-31 15:40:33,238 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:33 CST 2024, timestamp: Wed Jan 31 15:40:33 CST 2024)
+[1;31m2024-01[m-31 15:40:34,023 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=746.9M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=299.8M, heap.memory.free=436.6M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185763, minor.gc.time=2527858ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=0.00%, load.systemAverage=0.00%, thread.count=288, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78549944, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:40:34,238 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:34 CST 2024, timestamp: Wed Jan 31 15:40:34 CST 2024)
+[1;31m2024-01[m-31 15:40:35,239 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:35 CST 2024, timestamp: Wed Jan 31 15:40:35 CST 2024)
+[1;31m2024-01[m-31 15:40:36,239 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:36 CST 2024, timestamp: Wed Jan 31 15:40:36 CST 2024)
+[1;31m2024-01[m-31 15:40:37,239 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:37 CST 2024, timestamp: Wed Jan 31 15:40:37 CST 2024)
+[1;31m2024-01[m-31 15:40:38,239 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:38 CST 2024, timestamp: Wed Jan 31 15:40:38 CST 2024)
+[1;31m2024-01[m-31 15:40:39,240 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:39 CST 2024, timestamp: Wed Jan 31 15:40:39 CST 2024)
+[1;31m2024-01[m-31 15:40:40,240 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:40 CST 2024, timestamp: Wed Jan 31 15:40:40 CST 2024)
+[1;31m2024-01[m-31 15:40:41,240 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:41 CST 2024, timestamp: Wed Jan 31 15:40:41 CST 2024)
+[1;31m2024-01[m-31 15:40:42,240 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:42 CST 2024, timestamp: Wed Jan 31 15:40:42 CST 2024)
+[1;31m2024-01[m-31 15:40:43,240 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:43 CST 2024, timestamp: Wed Jan 31 15:40:43 CST 2024)
+[1;31m2024-01[m-31 15:40:44,241 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:44 CST 2024, timestamp: Wed Jan 31 15:40:44 CST 2024)
+[1;31m2024-01[m-31 15:40:45,240 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:45 CST 2024, timestamp: Wed Jan 31 15:40:45 CST 2024)
+[1;31m2024-01[m-31 15:40:46,241 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:46 CST 2024, timestamp: Wed Jan 31 15:40:46 CST 2024)
+[1;31m2024-01[m-31 15:40:47,241 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:47 CST 2024, timestamp: Wed Jan 31 15:40:47 CST 2024)
+[1;31m2024-01[m-31 15:40:48,241 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:48 CST 2024, timestamp: Wed Jan 31 15:40:48 CST 2024)
+[1;31m2024-01[m-31 15:40:49,241 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:49 CST 2024, timestamp: Wed Jan 31 15:40:49 CST 2024)
+[1;31m2024-01[m-31 15:40:50,241 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:50 CST 2024, timestamp: Wed Jan 31 15:40:50 CST 2024)
+[1;31m2024-01[m-31 15:40:51,242 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:51 CST 2024, timestamp: Wed Jan 31 15:40:51 CST 2024)
+[1;31m2024-01[m-31 15:40:52,242 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:52 CST 2024, timestamp: Wed Jan 31 15:40:52 CST 2024)
+[1;31m2024-01[m-31 15:40:53,242 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:53 CST 2024, timestamp: Wed Jan 31 15:40:53 CST 2024)
+[1;31m2024-01[m-31 15:40:54,242 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:54 CST 2024, timestamp: Wed Jan 31 15:40:54 CST 2024)
+[1;31m2024-01[m-31 15:40:55,242 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:55 CST 2024, timestamp: Wed Jan 31 15:40:55 CST 2024)
+[1;31m2024-01[m-31 15:40:56,243 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:56 CST 2024, timestamp: Wed Jan 31 15:40:56 CST 2024)
+[1;31m2024-01[m-31 15:40:57,243 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:57 CST 2024, timestamp: Wed Jan 31 15:40:57 CST 2024)
+[1;31m2024-01[m-31 15:40:58,243 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:58 CST 2024, timestamp: Wed Jan 31 15:40:58 CST 2024)
+[1;31m2024-01[m-31 15:40:59,243 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:40:59 CST 2024, timestamp: Wed Jan 31 15:40:59 CST 2024)
+[1;31m2024-01[m-31 15:41:00,244 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:00 CST 2024, timestamp: Wed Jan 31 15:41:00 CST 2024)
+[1;31m2024-01[m-31 15:41:01,244 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:01 CST 2024, timestamp: Wed Jan 31 15:41:01 CST 2024)
+[1;31m2024-01[m-31 15:41:02,244 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:02 CST 2024, timestamp: Wed Jan 31 15:41:02 CST 2024)
+[1;31m2024-01[m-31 15:41:03,244 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:03 CST 2024, timestamp: Wed Jan 31 15:41:03 CST 2024)
+[1;31m2024-01[m-31 15:41:04,244 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:04 CST 2024, timestamp: Wed Jan 31 15:41:04 CST 2024)
+[1;31m2024-01[m-31 15:41:05,245 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:05 CST 2024, timestamp: Wed Jan 31 15:41:05 CST 2024)
+[1;31m2024-01[m-31 15:41:06,245 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:06 CST 2024, timestamp: Wed Jan 31 15:41:06 CST 2024)
+[1;31m2024-01[m-31 15:41:07,245 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:07 CST 2024, timestamp: Wed Jan 31 15:41:07 CST 2024)
+[1;31m2024-01[m-31 15:41:08,245 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:08 CST 2024, timestamp: Wed Jan 31 15:41:08 CST 2024)
+[1;31m2024-01[m-31 15:41:09,245 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:09 CST 2024, timestamp: Wed Jan 31 15:41:09 CST 2024)
+[1;31m2024-01[m-31 15:41:10,245 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:10 CST 2024, timestamp: Wed Jan 31 15:41:10 CST 2024)
+[1;31m2024-01[m-31 15:41:11,246 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:11 CST 2024, timestamp: Wed Jan 31 15:41:11 CST 2024)
+[1;31m2024-01[m-31 15:41:12,246 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:12 CST 2024, timestamp: Wed Jan 31 15:41:12 CST 2024)
+[1;31m2024-01[m-31 15:41:13,246 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:13 CST 2024, timestamp: Wed Jan 31 15:41:13 CST 2024)
+[1;31m2024-01[m-31 15:41:14,246 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:14 CST 2024, timestamp: Wed Jan 31 15:41:14 CST 2024)
+[1;31m2024-01[m-31 15:41:15,246 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:15 CST 2024, timestamp: Wed Jan 31 15:41:15 CST 2024)
+[1;31m2024-01[m-31 15:41:16,246 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:16 CST 2024, timestamp: Wed Jan 31 15:41:16 CST 2024)
+[1;31m2024-01[m-31 15:41:17,247 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:17 CST 2024, timestamp: Wed Jan 31 15:41:17 CST 2024)
+[1;31m2024-01[m-31 15:41:18,247 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:18 CST 2024, timestamp: Wed Jan 31 15:41:18 CST 2024)
+[1;31m2024-01[m-31 15:41:19,247 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:19 CST 2024, timestamp: Wed Jan 31 15:41:19 CST 2024)
+[1;31m2024-01[m-31 15:41:20,247 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:20 CST 2024, timestamp: Wed Jan 31 15:41:20 CST 2024)
+[1;31m2024-01[m-31 15:41:21,248 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:21 CST 2024, timestamp: Wed Jan 31 15:41:21 CST 2024)
+[1;31m2024-01[m-31 15:41:22,248 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:22 CST 2024, timestamp: Wed Jan 31 15:41:22 CST 2024)
+[1;31m2024-01[m-31 15:41:23,248 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:23 CST 2024, timestamp: Wed Jan 31 15:41:23 CST 2024)
+[1;31m2024-01[m-31 15:41:24,248 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:24 CST 2024, timestamp: Wed Jan 31 15:41:24 CST 2024)
+[1;31m2024-01[m-31 15:41:25,249 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:25 CST 2024, timestamp: Wed Jan 31 15:41:25 CST 2024)
+[1;31m2024-01[m-31 15:41:26,249 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:26 CST 2024, timestamp: Wed Jan 31 15:41:26 CST 2024)
+[1;31m2024-01[m-31 15:41:27,249 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:27 CST 2024, timestamp: Wed Jan 31 15:41:27 CST 2024)
+[1;31m2024-01[m-31 15:41:28,249 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:28 CST 2024, timestamp: Wed Jan 31 15:41:28 CST 2024)
+[1;31m2024-01[m-31 15:41:29,249 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:29 CST 2024, timestamp: Wed Jan 31 15:41:29 CST 2024)
+[1;31m2024-01[m-31 15:41:30,249 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:30 CST 2024, timestamp: Wed Jan 31 15:41:30 CST 2024)
+[1;31m2024-01[m-31 15:41:31,249 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:31 CST 2024, timestamp: Wed Jan 31 15:41:31 CST 2024)
+[1;31m2024-01[m-31 15:41:32,249 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:32 CST 2024, timestamp: Wed Jan 31 15:41:32 CST 2024)
+[1;31m2024-01[m-31 15:41:33,250 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:33 CST 2024, timestamp: Wed Jan 31 15:41:33 CST 2024)
+[1;31m2024-01[m-31 15:41:34,024 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=746.5M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=284.0M, heap.memory.free=452.4M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185764, minor.gc.time=2527870ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=0.00%, load.systemAverage=0.00%, thread.count=265, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78550284, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:41:34,250 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:34 CST 2024, timestamp: Wed Jan 31 15:41:34 CST 2024)
+[1;31m2024-01[m-31 15:41:35,250 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:35 CST 2024, timestamp: Wed Jan 31 15:41:35 CST 2024)
+[1;31m2024-01[m-31 15:41:36,250 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:36 CST 2024, timestamp: Wed Jan 31 15:41:36 CST 2024)
+[1;31m2024-01[m-31 15:41:37,251 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:37 CST 2024, timestamp: Wed Jan 31 15:41:37 CST 2024)
+[1;31m2024-01[m-31 15:41:38,251 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:38 CST 2024, timestamp: Wed Jan 31 15:41:38 CST 2024)
+[1;31m2024-01[m-31 15:41:39,252 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:39 CST 2024, timestamp: Wed Jan 31 15:41:39 CST 2024)
+[1;31m2024-01[m-31 15:41:40,252 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:40 CST 2024, timestamp: Wed Jan 31 15:41:40 CST 2024)
+[1;31m2024-01[m-31 15:41:41,252 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:41 CST 2024, timestamp: Wed Jan 31 15:41:41 CST 2024)
+[1;31m2024-01[m-31 15:41:42,252 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:42 CST 2024, timestamp: Wed Jan 31 15:41:42 CST 2024)
+[1;31m2024-01[m-31 15:41:43,252 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:43 CST 2024, timestamp: Wed Jan 31 15:41:43 CST 2024)
+[1;31m2024-01[m-31 15:41:44,253 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:44 CST 2024, timestamp: Wed Jan 31 15:41:44 CST 2024)
+[1;31m2024-01[m-31 15:41:45,253 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:45 CST 2024, timestamp: Wed Jan 31 15:41:45 CST 2024)
+[1;31m2024-01[m-31 15:41:46,253 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:46 CST 2024, timestamp: Wed Jan 31 15:41:46 CST 2024)
+[1;31m2024-01[m-31 15:41:47,253 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:47 CST 2024, timestamp: Wed Jan 31 15:41:47 CST 2024)
+[1;31m2024-01[m-31 15:41:48,253 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:48 CST 2024, timestamp: Wed Jan 31 15:41:48 CST 2024)
+[1;31m2024-01[m-31 15:41:49,254 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:49 CST 2024, timestamp: Wed Jan 31 15:41:49 CST 2024)
+[1;31m2024-01[m-31 15:41:50,254 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:50 CST 2024, timestamp: Wed Jan 31 15:41:50 CST 2024)
+[1;31m2024-01[m-31 15:41:51,254 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:51 CST 2024, timestamp: Wed Jan 31 15:41:51 CST 2024)
+[1;31m2024-01[m-31 15:41:52,254 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:52 CST 2024, timestamp: Wed Jan 31 15:41:52 CST 2024)
+[1;31m2024-01[m-31 15:41:53,254 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:53 CST 2024, timestamp: Wed Jan 31 15:41:53 CST 2024)
+[1;31m2024-01[m-31 15:41:54,255 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:54 CST 2024, timestamp: Wed Jan 31 15:41:54 CST 2024)
+[1;31m2024-01[m-31 15:41:55,255 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:55 CST 2024, timestamp: Wed Jan 31 15:41:55 CST 2024)
+[1;31m2024-01[m-31 15:41:56,255 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:56 CST 2024, timestamp: Wed Jan 31 15:41:56 CST 2024)
+[1;31m2024-01[m-31 15:41:56,748 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737316746, commitIndex=86975737, changes=[[type=ADD, tstamp=1706737316741, entity=RealtimeCall@fc326ff9521912a2], [type=ADD, tstamp=1706737316741, entity=CDRLocation@fc681dbecc7a1387], [type=ADD, tstamp=1706737316741, entity=RealtimeMessage@fc8b02132ce07bcc], [type=ADD, tstamp=1706737316741, entity=RealtimeRemoteParticipant@fca7bda466729742], [type=ADD, tstamp=1706737316742, entity=RealtimeQueueJoin@fcfc7046d167bd21]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:41:56,748 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@11f7de28
+[1;31m2024-01[m-31 15:41:56,750 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@502cc036
+[1;31m2024-01[m-31 15:41:57,255 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:57 CST 2024, timestamp: Wed Jan 31 15:41:57 CST 2024)
+[1;31m2024-01[m-31 15:41:58,255 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:58 CST 2024, timestamp: Wed Jan 31 15:41:58 CST 2024)
+[1;31m2024-01[m-31 15:41:59,256 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:41:59 CST 2024, timestamp: Wed Jan 31 15:41:59 CST 2024)
+[1;31m2024-01[m-31 15:41:59,710 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737319709, commitIndex=86975740, changes=[[type=CHANGE, tstamp=1706737319705, entity=RealtimeCall@fc326ff9521912a2]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:41:59,711 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@518ae16b
+[1;31m2024-01[m-31 15:41:59,911 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737319910, commitIndex=86975741, changes=[[type=CHANGE, tstamp=1706737319907, entity=RealtimeCall@fc326ff9521912a2]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:41:59,912 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@149c65f1
+[1;31m2024-01[m-31 15:42:00,256 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:00 CST 2024, timestamp: Wed Jan 31 15:42:00 CST 2024)
+[1;31m2024-01[m-31 15:42:00,275 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.event.ui.ActiveCallSetEvent@6d0641d6
+[1;31m2024-01[m-31 15:42:00,277 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737320274, commitIndex=86975742, changes=[[type=CHANGE, tstamp=1706737320269, entity=RealtimeCall@fc326ff9521912a2], [type=ADD, tstamp=1706737320269, entity=RealtimeMessage@fc8b0269bd3051a5], [type=ADD, tstamp=1706737320270, entity=RealtimeLocalParticipant@fc54bfdd99b025e2], [type=ADD, tstamp=1706737320270, entity=UserCallEvent@fc07c08790827483], [type=CHANGE, tstamp=1706737320270, entity=PrimaryActiveCall@fc9d85e66afb7db6]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:00,277 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@1afc96ac
+[1;31m2024-01[m-31 15:42:00,277 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@6db8cbef
+[1;31m2024-01[m-31 15:42:00,382 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737320381, commitIndex=86975744, changes=[[type=CHANGE, tstamp=1706737320378, entity=RealtimeCall@fc326ff9521912a2]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:00,383 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@3540d666
+[1;31m2024-01[m-31 15:42:01,256 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:01 CST 2024, timestamp: Wed Jan 31 15:42:01 CST 2024)
+[1;31m2024-01[m-31 15:42:02,256 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:02 CST 2024, timestamp: Wed Jan 31 15:42:02 CST 2024)
+[1;31m2024-01[m-31 15:42:03,256 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:03 CST 2024, timestamp: Wed Jan 31 15:42:03 CST 2024)
+[1;31m2024-01[m-31 15:42:04,256 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:04 CST 2024, timestamp: Wed Jan 31 15:42:04 CST 2024)
+[1;31m2024-01[m-31 15:42:05,257 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:05 CST 2024, timestamp: Wed Jan 31 15:42:05 CST 2024)
+[1;31m2024-01[m-31 15:42:06,257 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:06 CST 2024, timestamp: Wed Jan 31 15:42:06 CST 2024)
+[1;31m2024-01[m-31 15:42:07,257 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:07 CST 2024, timestamp: Wed Jan 31 15:42:07 CST 2024)
+[1;31m2024-01[m-31 15:42:08,257 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:08 CST 2024, timestamp: Wed Jan 31 15:42:08 CST 2024)
+[1;31m2024-01[m-31 15:42:09,258 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:09 CST 2024, timestamp: Wed Jan 31 15:42:09 CST 2024)
+[1;31m2024-01[m-31 15:42:09,378 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737329377, commitIndex=-1, changes=[[type=ADD, tstamp=1706737329374, entity=HistoricalMessage[
+  message=Call {strong}276913{strong} with number {strong}660-287-9339{strong} is created on {strong}01/31/2024{strong}
+  privy=false
+  createdOn=Wed Jan 31 15:41:56 CST 2024
+  type=system
+  username=<null>
+  targetedUsersString=<null>
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  incidentID=<null>
+  requestID=<null>
+  failed=false
+  displayId=0
+  uuid=5652f82b-cf41-4f05-bd4a-f96e7271b4b7
+  clusterUUID=<null>
+  createdOn=Wed Jan 31 15:42:09 CST 2024
+  updatedOn=Wed Jan 31 15:42:09 CST 2024
+]]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:09,380 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737329379, commitIndex=86975751, changes=[[type=REMOVE, tstamp=1706737329377, entity=RealtimeMessage@fc8b02132ce07bcc]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:09,380 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@4bf77f94
+[1;31m2024-01[m-31 15:42:10,258 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:10 CST 2024, timestamp: Wed Jan 31 15:42:10 CST 2024)
+[1;31m2024-01[m-31 15:42:11,258 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:11 CST 2024, timestamp: Wed Jan 31 15:42:11 CST 2024)
+[1;31m2024-01[m-31 15:42:12,259 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:12 CST 2024, timestamp: Wed Jan 31 15:42:12 CST 2024)
+[1;31m2024-01[m-31 15:42:13,259 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:13 CST 2024, timestamp: Wed Jan 31 15:42:13 CST 2024)
+[1;31m2024-01[m-31 15:42:14,259 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:14 CST 2024, timestamp: Wed Jan 31 15:42:14 CST 2024)
+[1;31m2024-01[m-31 15:42:14,393 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737334391, commitIndex=-1, changes=[[type=ADD, tstamp=1706737334388, entity=HistoricalMessage[
+  message=Answering call with number {strong}660-287-9339{strong}
+  privy=true
+  createdOn=Wed Jan 31 15:42:00 CST 2024
+  type=system
+  username=jadian
+  targetedUsersString=<null>
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  incidentID=<null>
+  requestID=<null>
+  failed=false
+  displayId=0
+  uuid=8af57454-5b8e-4745-bd7a-6d9c55b86ecb
+  clusterUUID=<null>
+  createdOn=Wed Jan 31 15:42:14 CST 2024
+  updatedOn=Wed Jan 31 15:42:14 CST 2024
+]]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:14,395 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737334394, commitIndex=86975755, changes=[[type=REMOVE, tstamp=1706737334392, entity=RealtimeMessage@fc8b0269bd3051a5]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:14,395 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@603b22b6
+[1;31m2024-01[m-31 15:42:15,259 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:15 CST 2024, timestamp: Wed Jan 31 15:42:15 CST 2024)
+[1;31m2024-01[m-31 15:42:16,259 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:16 CST 2024, timestamp: Wed Jan 31 15:42:16 CST 2024)
+[1;31m2024-01[m-31 15:42:17,259 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:17 CST 2024, timestamp: Wed Jan 31 15:42:17 CST 2024)
+[1;31m2024-01[m-31 15:42:18,260 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:18 CST 2024, timestamp: Wed Jan 31 15:42:18 CST 2024)
+[1;31m2024-01[m-31 15:42:19,260 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:19 CST 2024, timestamp: Wed Jan 31 15:42:19 CST 2024)
+[1;31m2024-01[m-31 15:42:20,260 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:20 CST 2024, timestamp: Wed Jan 31 15:42:20 CST 2024)
+[1;31m2024-01[m-31 15:42:21,260 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:21 CST 2024, timestamp: Wed Jan 31 15:42:21 CST 2024)
+[1;31m2024-01[m-31 15:42:22,261 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:22 CST 2024, timestamp: Wed Jan 31 15:42:22 CST 2024)
+[1;31m2024-01[m-31 15:42:23,261 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:23 CST 2024, timestamp: Wed Jan 31 15:42:23 CST 2024)
+[1;31m2024-01[m-31 15:42:24,261 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:24 CST 2024, timestamp: Wed Jan 31 15:42:24 CST 2024)
+[1;31m2024-01[m-31 15:42:25,261 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:25 CST 2024, timestamp: Wed Jan 31 15:42:25 CST 2024)
+[1;31m2024-01[m-31 15:42:26,261 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:26 CST 2024, timestamp: Wed Jan 31 15:42:26 CST 2024)
+[1;31m2024-01[m-31 15:42:27,261 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:27 CST 2024, timestamp: Wed Jan 31 15:42:27 CST 2024)
+[1;31m2024-01[m-31 15:42:28,261 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:28 CST 2024, timestamp: Wed Jan 31 15:42:28 CST 2024)
+[1;31m2024-01[m-31 15:42:29,262 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:29 CST 2024, timestamp: Wed Jan 31 15:42:29 CST 2024)
+[1;31m2024-01[m-31 15:42:30,185 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737350184, commitIndex=86975766, changes=[[type=CHANGE, tstamp=1706737350180, entity=RealtimeRemoteParticipant@fca7bda466729742], [type=CHANGE, tstamp=1706737350180, entity=RealtimeCall@fc326ff9521912a2], [type=ADD, tstamp=1706737350181, entity=RealtimeMessage@fc8b0282a64bfa3b]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:30,186 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@2b646d19
+[1;31m2024-01[m-31 15:42:30,186 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@68dfbaba
+[1;31m2024-01[m-31 15:42:30,189 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737350188, commitIndex=86975767, changes=[[type=ADD, tstamp=1706737350186, entity=RealtimeCallQuality@fc1c7e044f72def6]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:30,262 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:30 CST 2024, timestamp: Wed Jan 31 15:42:30 CST 2024)
+[1;31m2024-01[m-31 15:42:30,294 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.event.ui.ActiveCallSetEvent@51481b85
+[1;31m2024-01[m-31 15:42:30,295 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737350294, commitIndex=86975768, changes=[[type=CHANGE, tstamp=1706737350289, entity=RealtimeLocalParticipant@fc54bfdd99b025e2], [type=CHANGE, tstamp=1706737350289, entity=RealtimeCall@fc326ff9521912a2], [type=CHANGE, tstamp=1706737350289, entity=PrimaryActiveCall@fc9d85e66afb7db6], [type=ADD, tstamp=1706737350289, entity=UserCallEvent@fc07c00c0bd9c5be], [type=ADD, tstamp=1706737350290, entity=RealtimeMessage@fc8b02fe6433f171]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:30,296 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@62bc2d19
+[1;31m2024-01[m-31 15:42:30,296 [hz.e911.event-4] DEBUG: DistributedEventHandler: received event com.clj2.business.service.event.JObjectUpdatedEvent@77a3519e
+[1;31m2024-01[m-31 15:42:31,262 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:31 CST 2024, timestamp: Wed Jan 31 15:42:31 CST 2024)
+[1;31m2024-01[m-31 15:42:32,262 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:32 CST 2024, timestamp: Wed Jan 31 15:42:32 CST 2024)
+[1;31m2024-01[m-31 15:42:33,262 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:33 CST 2024, timestamp: Wed Jan 31 15:42:33 CST 2024)
+[1;31m2024-01[m-31 15:42:34,025 [hz.e911.HealthMonitor] INFO : [10.0.1.52]:5701 [e911] [3.6.3] processors=8, physical.memory.total=13.7G, physical.memory.free=745.4M, swap.space.total=8.0G, swap.space.free=8.0G, heap.memory.used=288.5M, heap.memory.free=447.8M, heap.memory.total=736.4M, heap.memory.max=2.0G, heap.memory.used/total=0.00%, heap.memory.used/max=0.00%, minor.gc.count=185765, minor.gc.time=2527882ms, major.gc.count=224, major.gc.time=41375ms, load.process=0.00%, load.system=0.00%, load.systemAverage=0.00%, thread.count=313, thread.peakCount=407, cluster.timeDiff=-38, event.q.size=0, executor.q.async.size=0, executor.q.client.size=0, executor.q.query.size=0, executor.q.scheduled.size=0, executor.q.io.size=0, executor.q.system.size=0, executor.q.operations.size=0, executor.q.priorityOperation.size=0, operations.completed.count=78550630, executor.q.mapLoad.size=0, executor.q.mapLoadAllKeys.size=0, executor.q.cluster.size=0, executor.q.response.size=0, operations.running.count=0, operations.pending.invocations.percentage=0.00%, operations.pending.invocations.count=0, proxy.count=0, clientEndpoint.count=0, connection.active.count=2, client.connection.count=0, connection.count=1
+[1;31m2024-01[m-31 15:42:34,262 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:34 CST 2024, timestamp: Wed Jan 31 15:42:34 CST 2024)
+[1;31m2024-01[m-31 15:42:35,263 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:35 CST 2024, timestamp: Wed Jan 31 15:42:35 CST 2024)
+[1;31m2024-01[m-31 15:42:36,263 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:36 CST 2024, timestamp: Wed Jan 31 15:42:36 CST 2024)
+[1;31m2024-01[m-31 15:42:37,263 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:37 CST 2024, timestamp: Wed Jan 31 15:42:37 CST 2024)
+[1;31m2024-01[m-31 15:42:38,263 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:38 CST 2024, timestamp: Wed Jan 31 15:42:38 CST 2024)
+[1;31m2024-01[m-31 15:42:39,264 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:39 CST 2024, timestamp: Wed Jan 31 15:42:39 CST 2024)
+[1;31m2024-01[m-31 15:42:40,264 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:40 CST 2024, timestamp: Wed Jan 31 15:42:40 CST 2024)
+[1;31m2024-01[m-31 15:42:41,264 [hz.e911.generic-operation.thread-2] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:41 CST 2024, timestamp: Wed Jan 31 15:42:41 CST 2024)
+[1;31m2024-01[m-31 15:42:42,264 [hz.e911.generic-operation.thread-3] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:42 CST 2024, timestamp: Wed Jan 31 15:42:42 CST 2024)
+[1;31m2024-01[m-31 15:42:43,264 [hz.e911.generic-operation.thread-0] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:43 CST 2024, timestamp: Wed Jan 31 15:42:43 CST 2024)
+[1;31m2024-01[m-31 15:42:44,265 [hz.e911.generic-operation.thread-1] DEBUG: [10.0.1.52]:5701 [e911] [3.6.3] Received heartbeat from Member [10.0.1.50]:5701 (now: Wed Jan 31 15:42:44 CST 2024, timestamp: Wed Jan 31 15:42:44 CST 2024)
+[1;31m2024-01[m-31 15:42:44,441 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737364440, commitIndex=86975779, changes=[[type=REMOVE, tstamp=1706737364438, entity=RealtimeCallQuality@fc1c7e044f72def6]]] from node 00000000-0000-0000-0000-000000000001
+[1;31m2024-01[m-31 15:42:44,478 [hz.e911.event-3] DEBUG: received entity change event [createdOn=1706737364477, commitIndex=-1, changes=[[type=ADD, tstamp=1706737364468, entity=HistoricalCall[
+  answerTime=Wed Jan 31 15:42:00 CST 2024
+  trunkID=90
+  trunkDescription=trunk-gateway-sip-peer-1
+  rapidSOSLocation=<null>
+  firstLocalParticipant=HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@a6cfd44
+  channel=SIP/station-integrated-sip-polycom-1-3-0006f70c
+  leftOn=Wed Jan 31 15:42:30 CST 2024
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  username=jadian
+  displayId=0
+  uuid=4d351f57-2b7c-41a5-b74b-fa24747ea014
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:42:00 CST 2024
+  updatedOn=Wed Jan 31 15:42:30 CST 2024
+]
+  historicalParticipants=[HistoricalRemoteParticipant[
+  number=6608268100
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  trunkName=trunk-gateway-sip-peer-1
+  trunkId=90
+  trunkType=admin
+  call=com.clj2.business.model.historical.HistoricalCall@a6cfd44
+  channel=SIP/trunk-gateway-sip-peer-1-0006f704
+  leftOn=Wed Jan 31 15:42:30 CST 2024
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  username=<null>
+  displayId=0
+  uuid=fb6c258d-a95e-428b-942c-4caed5de1653
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:41:56 CST 2024
+  updatedOn=Wed Jan 31 15:42:30 CST 2024
+], HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@a6cfd44
+  channel=SIP/station-integrated-sip-polycom-1-3-0006f70c
+  leftOn=Wed Jan 31 15:42:30 CST 2024
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  username=jadian
+  displayId=0
+  uuid=4d351f57-2b7c-41a5-b74b-fa24747ea014
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:42:00 CST 2024
+  updatedOn=Wed Jan 31 15:42:30 CST 2024
+]]
+  initialized=false
+  type=Inbound
+  mediaType=Voice
+  status=Released
+  currentQueues=<null>
+  ringingUsers=<null>
+  involvedUsers=<null>
+  number=6602879339
+  callerName=JENNINGS CALEB
+  callbackNumber=6602879339
+  alternateNumber=<null>
+  dialedNumber=6608268100
+  tdd=false
+  conferenceRoom=bc4feb06-fc88-4bda-9494-582adaf4616a
+  recording=true
+  audioFile=/recordings/2024:031:21:42:GMT.station-integrated-sip-polycom-1-3-38123769450355241.WAV
+  heldForProcessing=false
+  aliPayload=<null>
+  aliAddress1=<null>
+  aliAddress2=<null>
+  aliCity=<null>
+  aliCounty=<null>
+  aliState=<null>
+  aliZip=<null>
+  aliX=<null>
+  aliY=<null>
+  aliName=<null>
+  telcoID=<null>
+  psapID=<null>
+  confidence=<null>
+  uncertainty=<null>
+  trunkClass=<null>
+  aliCustom1=<null>
+  aliCustom2=<null>
+  aliCustom3=<null>
+  aliResult=<null>
+  esn=<null>
+  agencies=<null>
+  locationURI=<null>
+  answerPosition=1
+  releasedOn=Wed Jan 31 15:42:30 CST 2024
+  event=b48e1873-55d2-4a42-aa64-cde23c97f077
+  relatedCallId=<null>
+  callInfo=<null>
+  aliUpdatedOn=<null>
+  trunkType=admin
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  acd=false
+  onNetTransfer=false
+  location=Location[
+  address1=
+  address2=
+  city=
+  state=
+  zip=
+  county=
+  country=
+  x=0.0
+  y=0.0
+  locationHash=d41d8cd98f00b204e9800998ecf8427e
+]
+  redialFromCallId=<null>
+  originatingTrunkType=admin
+  assignedAgent=<null>
+  reassociatedClusterUUID=<null>
+  dispatchGroups=[pettis]
+  displayId=276913
+  uuid=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:41:56 CST 2024
+  updatedOn=Wed Jan 31 15:42:44 CST 2024
+]], [type=CHANGE, tstamp=1706737364469, entity=HistoricalCall[
+  answerTime=Wed Jan 31 15:42:00 CST 2024
+  trunkID=90
+  trunkDescription=trunk-gateway-sip-peer-1
+  rapidSOSLocation=<null>
+  firstLocalParticipant=HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@a6cfd44
+  channel=SIP/station-integrated-sip-polycom-1-3-0006f70c
+  leftOn=Wed Jan 31 15:42:30 CST 2024
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  username=jadian
+  displayId=0
+  uuid=4d351f57-2b7c-41a5-b74b-fa24747ea014
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:42:00 CST 2024
+  updatedOn=Wed Jan 31 15:42:30 CST 2024
+]
+  historicalParticipants=[HistoricalRemoteParticipant[
+  number=6608268100
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  trunkName=trunk-gateway-sip-peer-1
+  trunkId=90
+  trunkType=admin
+  call=com.clj2.business.model.historical.HistoricalCall@a6cfd44
+  channel=SIP/trunk-gateway-sip-peer-1-0006f704
+  leftOn=Wed Jan 31 15:42:30 CST 2024
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  username=<null>
+  displayId=0
+  uuid=fb6c258d-a95e-428b-942c-4caed5de1653
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:41:56 CST 2024
+  updatedOn=Wed Jan 31 15:42:30 CST 2024
+], HistoricalLocalParticipant[
+  holding=false
+  held=false
+  muted=false
+  silentMonitor=false
+  call=com.clj2.business.model.historical.HistoricalCall@a6cfd44
+  channel=SIP/station-integrated-sip-polycom-1-3-0006f70c
+  leftOn=Wed Jan 31 15:42:30 CST 2024
+  callID=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  username=jadian
+  displayId=0
+  uuid=4d351f57-2b7c-41a5-b74b-fa24747ea014
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:42:00 CST 2024
+  updatedOn=Wed Jan 31 15:42:30 CST 2024
+]]
+  initialized=false
+  type=Inbound
+  mediaType=Voice
+  status=Released
+  currentQueues=<null>
+  ringingUsers=<null>
+  involvedUsers=<null>
+  number=6602879339
+  callerName=JENNINGS CALEB
+  callbackNumber=6602879339
+  alternateNumber=<null>
+  dialedNumber=6608268100
+  tdd=false
+  conferenceRoom=bc4feb06-fc88-4bda-9494-582adaf4616a
+  recording=true
+  audioFile=/recordings/2024:031:21:42:GMT.station-integrated-sip-polycom-1-3-38123769450355241.WAV
+  heldForProcessing=false
+  aliPayload=<null>
+  aliAddress1=<null>
+  aliAddress2=<null>
+  aliCity=<null>
+  aliCounty=<null>
+  aliState=<null>
+  aliZip=<null>
+  aliX=<null>
+  aliY=<null>
+  aliName=<null>
+  telcoID=<null>
+  psapID=<null>
+  confidence=<null>
+  uncertainty=<null>
+  trunkClass=<null>
+  aliCustom1=<null>
+  aliCustom2=<null>
+  aliCustom3=<null>
+  aliResult=<null>
+  esn=<null>
+  agencies=<null>
+  locationURI=<null>
+  answerPosition=1
+  releasedOn=Wed Jan 31 15:42:30 CST 2024
+  event=b48e1873-55d2-4a42-aa64-cde23c97f077
+  relatedCallId=<null>
+  callInfo=<null>
+  aliUpdatedOn=<null>
+  trunkType=admin
+  lineUUID=4ecd2f63-a409-4904-0100-000000000001
+  acd=false
+  onNetTransfer=false
+  location=Location[
+  address1=
+  address2=
+  city=
+  state=
+  zip=
+  county=
+  country=
+  x=0.0
+  y=0.0
+  locationHash=d41d8cd98f00b204e9800998ecf8427e
+]
+  redialFromCallId=<null>
+  originatingTrunkType=admin
+  assignedAgent=<null>
+  reassociatedClusterUUID=<null>
+  dispatchGroups=[pettis]
+  displayId=276913
+  uuid=9886fbed-6255-4dbb-a5ee-292c6568adbb
+  clusterUUID=00000000-0000-0000-0000-000000000001
+  createdOn=Wed Jan 31 15:41:56 CST 2024
+  updatedOn=Wed Jan 31 15:42:44 CST 2024
+]]]] from node 00000000-0000-0000-0000-000000000001
+[dsanabria@node1.cluster2.pettiscomo] 15
